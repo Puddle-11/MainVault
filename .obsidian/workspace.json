@@ -11,10 +11,24 @@
             "id": "3f0c5f82bbec4e6f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MainNet/1 - Main Notes/Physics/Light Cones.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Light Cones"
             }
           },
           {
@@ -188,17 +202,18 @@
   },
   "active": "3f0c5f82bbec4e6f",
   "lastOpenFiles": [
+    "MainNet/1 - Main Notes/Physics/General Theory of Relativity.md",
+    "MainNet/1 - Main Notes/Tea for God.md",
+    "MainNet/1 - Main Notes/Programming/Gun Clipping.md",
     "MainNet/1 - Main Notes/Physics/Overlapping Space.md",
     "MainNet/1 - Main Notes/Physics/Non-Euclidian Spaces.md",
     "MainNet/1 - Main Notes/Physics/Light Cones.md",
-    "MainNet/1 - Main Notes/Physics/General Theory of Relativity.md",
     "MainNet/7 - Tags/Physics.md",
     "MainNet/1 - Main Notes/Programming/FlyWeight Design Pattern.md",
     "MainNet/1 - Main Notes/Labyrinth.md",
     "Untitled 1.md",
     "Untitled.md",
     "MainNet/1 - Main Notes/Simply Connected Maze.md",
-    "MainNet/1 - Main Notes/Tea for God.md",
     "MainNet/1 - Main Notes/Programming/A Star Path Finding.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
     "MainNet/7 - Tags/Mazes.md",
@@ -207,7 +222,6 @@
     "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
     "MainNet/1 - Main Notes/Programming/Swap Chain.md",
-    "MainNet/1 - Main Notes/Programming/Gun Clipping.md",
     "MainNet/1 - Main Notes/Programming/Gaussian Blur.md",
     "MainNet/1 - Main Notes/Programming/OpenGL.md",
     "MainNet/1 - Main Notes/Programming/Perlin Noise.md",
