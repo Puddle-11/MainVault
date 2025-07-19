@@ -2,9 +2,9 @@
 
 Status:
 
-Tags:
+Tags: [[Card Game Prototype]]
 
-## Random Suit
+## Trump Suit
 
 
 
