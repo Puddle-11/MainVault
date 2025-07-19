@@ -1,0 +1,17 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "Fy-fcodBFff6FgqttrgQ3",
+      "name": "Red",
+      "value": "#ff0000"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "MainNet/7 - Tags",
+      "color": "Fy-fcodBFff6FgqttrgQ3"
+    }
+  ]
+}

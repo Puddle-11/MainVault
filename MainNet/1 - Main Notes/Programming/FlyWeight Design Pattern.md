@@ -2,7 +2,7 @@
 
 Status:
 
-Tags:
+Tags: [[Software Design Patterns]]
 
 ## FlyWeight Design Pattern
 
