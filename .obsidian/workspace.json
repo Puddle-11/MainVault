@@ -35,10 +35,24 @@
             "id": "cf1274c68402b040",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
             }
           },
           {
@@ -214,14 +228,14 @@
   "active": "cf1274c68402b040",
   "lastOpenFiles": [
     "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
+    "Untitled 2.md",
     "MainNet/7 - Tags/Programming.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Regen Discard.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Choose Trump.md",
-    "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Untitled 2.md",
     "MainNet/1 - Main Notes/Physics/General Theory of Relativity.md",
     "Full Random Suit.md",
     "MainNet/1 - Main Notes/Physics/Light Cones.md",
