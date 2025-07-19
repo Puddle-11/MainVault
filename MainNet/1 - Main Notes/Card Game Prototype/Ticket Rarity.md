@@ -7,7 +7,7 @@ Tags:[[Card Game Prototype]]
 ## Ticket Rarity
 
 Common (0.75-0.36):
-[[Regen Discard]]: 0.7
+[[Regen Discard]]: 0.5
 [[Random Suit]]: 0.4
 [[Trump Suit]]: 0.4
 
