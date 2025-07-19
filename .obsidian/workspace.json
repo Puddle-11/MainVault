@@ -58,10 +58,24 @@
             "id": "941c47f4e4c9e5da",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ticket Rarity"
             }
           }
         ]
@@ -209,7 +223,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "772dcd9a21f8c88e",
+  "active": "941c47f4e4c9e5da",
   "lastOpenFiles": [
     "Untitled.md",
     "Untitled 1.md",
