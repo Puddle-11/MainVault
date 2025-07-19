@@ -2,5 +2,6 @@
   "github-sync",
   "dataview",
   "colored-text",
-  "colored-tags"
+  "colored-tags",
+  "simple-colored-folder"
 ]
