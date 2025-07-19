@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ticket Rarity.md",
+                "file": "Increased Damage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ticket Rarity"
+              "title": "Increased Damage"
             }
           }
         ],
@@ -199,9 +199,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "941c47f4e4c9e5da",
+  "active": "956a58def35fda04",
   "lastOpenFiles": [
     "Ticket Rarity.md",
+    "Increased Damage.md",
     "Card Game Prototype.md",
     "Regen Discard.md",
     "MainNet/1 - Main Notes/Programming/Randomized Prims Algorithm.md",
