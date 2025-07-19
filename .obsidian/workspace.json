@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
+                "file": "MainNet/1 - Main Notes/Programming/A Star Path Finding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ticket Rarity"
+              "title": "A Star Path Finding"
             }
           }
         ],
@@ -209,7 +209,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "941c47f4e4c9e5da",
+  "active": "772dcd9a21f8c88e",
   "lastOpenFiles": [
     "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
     "Untitled.md",
