@@ -11,110 +11,13 @@
             "id": "3f0c5f82bbec4e6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainNet/1 - Main Notes/Physics/General Theory of Relativity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "General Theory of Relativity"
-            }
-          },
-          {
-            "id": "cf1274c68402b040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ticket Rarity"
-            }
-          },
-          {
-            "id": "16d7fb9bc078a1f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ticket Rarity"
-            }
-          },
-          {
-            "id": "a1886a5c66bbc50b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainNet/1 - Main Notes/Card Game Prototype/Full Random Suit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Full Random Suit"
-            }
-          },
-          {
-            "id": "956a58def35fda04",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,12 +162,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "956a58def35fda04",
+  "active": "3f0c5f82bbec4e6f",
   "lastOpenFiles": [
-    "MainNet/1 - Main Notes/Card Game Prototype/Regen Discard.md",
+    "MainNet/1 - Main Notes/Physics/General Theory of Relativity.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
-    "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Full Random Suit.md",
+    "MainNet/1 - Main Notes/Programming/Singleton Pattern.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Regen Discard.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Choose Trump.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
     "MainNet/7 - Tags/Programming.md",
@@ -279,7 +184,6 @@
     "Untitled 2.md",
     "Untitled 3.md",
     "Untitled 1.md",
-    "MainNet/1 - Main Notes/Physics/General Theory of Relativity.md",
     "MainNet/1 - Main Notes/Physics/Light Cones.md",
     "MainNet/1 - Main Notes/Tea for God.md",
     "MainNet/1 - Main Notes/Programming/Gun Clipping.md",
