@@ -5,6 +5,7 @@ Status:
 Tags: [[Card Game Prototype]]
 
 ## Card Game Main Loop
+The main loop of the game is as follows.
 
 
 
