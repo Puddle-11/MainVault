@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
+                "file": "MainNet/1 - Main Notes/Physics/Non-Euclidian Spaces.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ticket Rarity"
+              "title": "Non-Euclidian Spaces"
             }
           },
           {
@@ -275,8 +275,8 @@
   },
   "active": "a1886a5c66bbc50b",
   "lastOpenFiles": [
-    "Untitled 5.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
+    "Untitled 5.md",
     "Untitled 4.md",
     "Untitled 2.md",
     "Untitled 3.md",
