@@ -1,10 +1,10 @@
-2025-07-19 03:30
+2025-07-19 03:52
 
 Status:
 
 Tags: [[Card Game Prototype]]
 
-## Tickets
+## Card Game Prototype Scoring
 
 
 

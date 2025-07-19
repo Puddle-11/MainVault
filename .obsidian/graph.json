@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "Card Game Prototype",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "Physics",
+      "color": {
+        "a": 1,
+        "rgb": 1446948
+      }
     }
   ],
   "collapse-display": true,
@@ -22,9 +36,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 12.1875,
+  "repelStrength": 10.7291666666667,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.25883865621816804,
+  "scale": 0.2588386562181726,
   "close": true
 }
