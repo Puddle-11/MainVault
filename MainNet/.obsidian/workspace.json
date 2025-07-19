@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "e84871927e465c94",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e9895452de0d770",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "95cfa8859384eef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main Notes/Programming/Randomized Prims Algorithm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Randomized Prims Algorithm"
+            }
+          },
+          {
+            "id": "0a9d0c68fdd81f59",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://refactoring.guru/design-patterns/catalog",
+                "title": "The Catalog of Design Patterns",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "The Catalog of Design Patterns"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ab57e698e3488f1d",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "aa2e3d6ed54cdeb2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "950247dee491b6ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "e564b3db05344962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66d3dc12d92e9950",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f23b2ac6f95855db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f718ffb9a2ffb750",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c964881b07fff565",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a262219c8d1dabb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88fc2069d73d7d35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Main Notes/Labyrinth.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Labyrinth"
+            }
+          },
+          {
+            "id": "85e85e67706877a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "8340d98f2016918f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b33e7917b642acc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-rich-links:Rich Links": false
+    }
+  },
+  "active": "95cfa8859384eef4",
+  "lastOpenFiles": [
+    "1 - Main Notes/Programming/Singleton Pattern.md",
+    "1 - Main Notes/Programming/Swap Chain.md",
+    "1 - Main Notes/Programming/Unity.md",
+    "1 - Main Notes/Programming/Voronoi Noise.md",
+    "1 - Main Notes/Software Design Patterns.md",
+    "1 - Main Notes/Programming/Camera Stacking.md",
+    "1 - Main Notes/Programming/Perlin Noise.md",
+    "1 - Main Notes/Programming/Gaussian Blur.md",
+    "1 - Main Notes/Programming/Gun Clipping.md",
+    "1 - Main Notes/Factory Design Pattern.md",
+    "1 - Main Notes/Programming/Vulkan.md",
+    "1 - Main Notes/Programming/Randomized Prims Algorithm.md",
+    "1 - Main Notes/Programming/Player Controls.md",
+    "1 - Main Notes/Non-Euclidian Spaces.md",
+    "1 - Main Notes/Untitled.md",
+    "1 - Main Notes/Tea for God.md",
+    "1 - Main Notes/Overlapping Space Algorithm.md",
+    "1 - Main Notes/Labyrinth.md",
+    "1 - Main Notes/Light Cones.md",
+    "1 - Main Notes/Overlapping Space.md",
+    "1 - Main Notes/Simply Connected Maze.md",
+    "Assets/Light Cones.png",
+    "Assets/images.png",
+    "7 - Tags/Programming.md",
+    "1 - Main Notes/General Theory of Relativity.md",
+    "1 - Main Notes/Programming/Entity Component Systems.md",
+    "1 - Main Notes/Programming/Wave Function Collapse.md",
+    "1 - Main Notes/Programming/Unity water shaders.md",
+    "Assets",
+    "Untitled.canvas",
+    "1 - Main Notes/Art",
+    "1 - Main Notes/Programming",
+    "1 - Main Notes/Gaming",
+    "7 - Tags",
+    "1 - Main Notes",
+    "6 - Templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "3 - Source Materials"
+  ]
+}

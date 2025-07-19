@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "vimMode": false,
+  "attachmentFolderPath": "Assets",
+  "userIgnoreFilters": [
+    "Assets/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1 - Main Notes",
+  "alwaysUpdateLinks": true
+}
