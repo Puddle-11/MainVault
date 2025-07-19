@@ -6,10 +6,24 @@
       {
         "id": "bcd73b34343d6179",
         "type": "tabs",
-        "dimension": 42,
+        "dimension": 42.00507614213198,
         "children": [
           {
-            "id": "d13997c7d6c9b621",
+            "id": "3f0c5f82bbec4e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Card Game Prototype.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Card Game Prototype"
+            }
+          },
+          {
+            "id": "956a58def35fda04",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,12 +36,13 @@
               "title": "Ticket Rarity"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0aa31d799d627ae9",
         "type": "tabs",
-        "dimension": 57.99999999999999,
+        "dimension": 57.99492385786802,
         "children": [
           {
             "id": "941c47f4e4c9e5da",
@@ -184,36 +199,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d13997c7d6c9b621",
+  "active": "772dcd9a21f8c88e",
   "lastOpenFiles": [
-    "MainNet/1 - Main Notes/Card Game Prototype/Regen Discard.md",
-    "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
     "Untitled.md",
-    "Ticket Rarity.md",
+    "MainNet/7 - Tags/Mazes.md",
+    "MainNet/1 - Main Notes/Simply Connected Maze.md",
+    "MainNet/1 - Main Notes/Labyrinth.md",
+    "MainNet/1 - Main Notes/Tea for God.md",
+    "MainNet/1 - Main Notes/Physics/Non-Euclidian Spaces.md",
+    "MainNet/1 - Main Notes/Physics/Overlapping Space.md",
+    "MainNet/1 - Main Notes/Physics",
+    "MainNet/1 - Main Notes/Card Game Prototype",
+    "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
+    "MainNet/1 - Main Notes/Programming/Swap Chain.md",
+    "MainNet/1 - Main Notes/Programming/Gun Clipping.md",
+    "MainNet/1 - Main Notes/Programming/Gaussian Blur.md",
+    "MainNet/1 - Main Notes/Programming/OpenGL.md",
+    "MainNet/1 - Main Notes/Programming/Perlin Noise.md",
+    "MainNet/1 - Main Notes/Programming/Player Controls.md",
+    "MainNet/1 - Main Notes/Programming/Singleton Pattern.md",
+    "MainNet/1 - Main Notes/Programming/Randomized Prims Algorithm.md",
+    "MainNet/1 - Main Notes/Physics/General Theory of Relativity.md",
+    "MainNet/1 - Main Notes/Programming/FlyWeight Design Pattern.md",
+    "MainNet/6 - Templates/Untitled.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Regen Discard.md",
+    "MainNet/1 - Main Notes/Programming/Bowyer-Waston Algorithm.md",
     "MainNet/1 - Main Notes/Programming/Software Design Patterns.md",
     "MainNet/1 - Main Notes/Programming/Overlapping Space Algorithm.md",
-    "MainNet/1 - Main Notes/Programming/FlyWeight Design Pattern.md",
-    "MainNet/1 - Main Notes/Programming/Factory Design Pattern.md",
-    "MainNet/1 - Main Notes/Programming/Bowyer-Waston Algorithm.md",
-    "MainNet/1 - Main Notes/Physics/Non-Euclidian Spaces.md",
-    "MainNet/1 - Main Notes/Physics/Light Cones.md",
-    "MainNet/1 - Main Notes/Physics/Overlapping Space.md",
-    "MainNet/1 - Main Notes/Physics/General Theory of Relativity.md",
-    "MainNet/1 - Main Notes/Physics",
-    "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
-    "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
-    "MainNet/1 - Main Notes/Card Game Prototype",
-    "Card Game Prototype.md",
-    "Increased Damage.md",
-    "MainNet/Assets/Light Cones.png",
-    "Regen Discard.md",
-    "MainNet/1 - Main Notes/Programming/Randomized Prims Algorithm.md",
-    "MainNet/1 - Main Notes/Bowyer-Waston Algorithm.md",
-    "MainNet/1 - Main Notes/Software Design Patterns.md",
-    "MainNet/1 - Main Notes/Overlapping Space Algorithm.md",
-    "MainNet/1 - Main Notes/Programming/Game Engines.md",
-    "MainNet/1 - Main Notes/Factory Design Pattern.md",
-    "MainNet/1 - Main Notes/General Theory of Relativity.md",
-    "MainNet/1 - Main Notes/Non-Euclidian Spaces.md"
+    "MainNet/1 - Main Notes/Programming/Game Engines.md"
   ]
 }
