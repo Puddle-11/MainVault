@@ -18,7 +18,7 @@
       "query": "Ticket Rarity",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14859314
       }
     }
   ],
@@ -27,11 +27,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.5,
   "repelStrength": 9.6875,
   "linkStrength": 0.96875,
   "linkDistance": 250,
-  "scale": 0.3628873693012124,
+  "scale": 0.5087618855792607,
   "close": false
 }
