@@ -2,6 +2,6 @@
   "remoteURL": "https://github.com/Puddle-11/MainVault.git",
   "gitLocation": "",
   "syncinterval": 1,
-  "isSyncOnLoad": true,
+  "isSyncOnLoad": false,
   "checkStatusOnLoad": true
 }

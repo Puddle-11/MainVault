@@ -162,8 +162,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c918a587c0c3b377",
+  "active": "772dcd9a21f8c88e",
   "lastOpenFiles": [
+    "Untitled 4.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
     "Untitled 3.md",
     "Untitled 2.md",
@@ -191,7 +192,6 @@
     "Card Game Prototype.md",
     "Increased Damage.md",
     "MainNet/Assets/Light Cones.png",
-    "Regen Discard.md",
-    "MainNet/1 - Main Notes/Programming/Randomized Prims Algorithm.md"
+    "Regen Discard.md"
   ]
 }
