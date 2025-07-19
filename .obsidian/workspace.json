@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Ticket Rarity"
             }
-          },
-          {
-            "id": "3647f157ab99b737",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +176,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3647f157ab99b737",
+  "active": "c918a587c0c3b377",
   "lastOpenFiles": [
     "Untitled.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
