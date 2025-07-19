@@ -2,5 +2,7 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "defaultViewMode": "source",
-  "spellcheck": true
+  "spellcheck": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "MainNet/1 - Main Notes"
 }
