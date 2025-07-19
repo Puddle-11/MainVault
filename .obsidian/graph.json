@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "Programming",
@@ -34,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.5,
-  "repelStrength": 12.3958333333333,
+  "repelStrength": 9.6875,
   "linkStrength": 0.96875,
   "linkDistance": 250,
-  "scale": 0.3628873693012159,
+  "scale": 0.5087618855792642,
   "close": false
 }
