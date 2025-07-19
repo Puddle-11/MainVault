@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
+                "file": "MainNet/1 - Main Notes/Physics/General Theory of Relativity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ticket Rarity"
+              "title": "General Theory of Relativity"
             }
           },
           {
@@ -202,8 +202,8 @@
   },
   "active": "3f0c5f82bbec4e6f",
   "lastOpenFiles": [
-    "MainNet/1 - Main Notes/Physics/General Theory of Relativity.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
+    "MainNet/1 - Main Notes/Physics/General Theory of Relativity.md",
     "MainNet/1 - Main Notes/Physics/Light Cones.md",
     "MainNet/1 - Main Notes/Tea for God.md",
     "MainNet/1 - Main Notes/Programming/Gun Clipping.md",
