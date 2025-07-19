@@ -20,7 +20,7 @@ Uncommon (0.35-0.13):
 Rare (0.12-0.06):
 [[Reroll Trump]]: 0.12
 [[Full Random Suit]]: 0.1
-[[Choose Trump]]: 0.1
+[[Choose Trump]]: 0.085
 
 Mythical (0.05-0.001):
 [[Full Trump Suit]]: 0.05
