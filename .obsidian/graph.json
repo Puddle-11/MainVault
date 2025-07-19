@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14859314
       }
+    },
+    {
+      "query": "Software Design Patterns",
+      "color": {
+        "a": 1,
+        "rgb": 10634363
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 9.6875,
   "linkStrength": 0.96875,
   "linkDistance": 250,
-  "scale": 0.5087618855792615,
+  "scale": 0.5087618855792623,
   "close": false
 }
