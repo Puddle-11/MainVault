@@ -9,3 +9,4 @@ Tags:
 
 
 ## References
+![[Screenshot 2025-07-19 032415.png]]
