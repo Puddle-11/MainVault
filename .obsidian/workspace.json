@@ -107,24 +107,10 @@
             "id": "956a58def35fda04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainNet/7 - Tags/Programming.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Programming"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -275,15 +261,15 @@
   },
   "active": "956a58def35fda04",
   "lastOpenFiles": [
+    "MainNet/1 - Main Notes/Card Game Prototype/Regen Discard.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Full Random Suit.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Choose Trump.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
     "MainNet/7 - Tags/Programming.md",
     "MainNet/1 - Main Notes/Labyrinth.md",
     "MainNet/1 - Main Notes/Simply Connected Maze.md",
-    "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
-    "MainNet/1 - Main Notes/Card Game Prototype/Choose Trump.md",
-    "MainNet/1 - Main Notes/Card Game Prototype/Full Random Suit.md",
-    "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
-    "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
-    "MainNet/1 - Main Notes/Card Game Prototype/Regen Discard.md",
     "MainNet/1 - Main Notes/Physics/Overlapping Space.md",
     "New Text Document.txt",
     "Untitled.md",

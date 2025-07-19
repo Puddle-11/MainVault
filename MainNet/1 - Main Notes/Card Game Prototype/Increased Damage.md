@@ -2,7 +2,7 @@
 
 Status:
 
-Tags:
+Tags:[[Card Game Prototype]]
 
 ## Increased Damage
 Increases damage taken by losing party by 1

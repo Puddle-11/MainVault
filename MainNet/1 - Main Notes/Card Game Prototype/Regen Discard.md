@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[Ticket Rarity]]
+Tags: [[Ticket Rarity]] [[Card Game Prototype]]
 
 ## Regen Discard
 
