@@ -6,15 +6,15 @@
       {
         "id": "bcd73b34343d6179",
         "type": "tabs",
-        "dimension": 42.00507614213198,
+        "dimension": 42,
         "children": [
           {
-            "id": "956a58def35fda04",
+            "id": "d13997c7d6c9b621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ticket Rarity.md",
+                "file": "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
       {
         "id": "0aa31d799d627ae9",
         "type": "tabs",
-        "dimension": 57.99492385786802,
+        "dimension": 57.99999999999999,
         "children": [
           {
             "id": "941c47f4e4c9e5da",
@@ -184,10 +184,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "956a58def35fda04",
+  "active": "d13997c7d6c9b621",
   "lastOpenFiles": [
-    "Card Game Prototype.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Regen Discard.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
+    "Untitled.md",
     "Ticket Rarity.md",
+    "MainNet/1 - Main Notes/Programming/Software Design Patterns.md",
+    "MainNet/1 - Main Notes/Programming/Overlapping Space Algorithm.md",
+    "MainNet/1 - Main Notes/Programming/FlyWeight Design Pattern.md",
+    "MainNet/1 - Main Notes/Programming/Factory Design Pattern.md",
+    "MainNet/1 - Main Notes/Programming/Bowyer-Waston Algorithm.md",
+    "MainNet/1 - Main Notes/Physics/Non-Euclidian Spaces.md",
+    "MainNet/1 - Main Notes/Physics/Light Cones.md",
+    "MainNet/1 - Main Notes/Physics/Overlapping Space.md",
+    "MainNet/1 - Main Notes/Physics/General Theory of Relativity.md",
+    "MainNet/1 - Main Notes/Physics",
+    "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
+    "MainNet/1 - Main Notes/Card Game Prototype",
+    "Card Game Prototype.md",
     "Increased Damage.md",
     "MainNet/Assets/Light Cones.png",
     "Regen Discard.md",
@@ -198,7 +214,6 @@
     "MainNet/1 - Main Notes/Programming/Game Engines.md",
     "MainNet/1 - Main Notes/Factory Design Pattern.md",
     "MainNet/1 - Main Notes/General Theory of Relativity.md",
-    "MainNet/1 - Main Notes/Non-Euclidian Spaces.md",
-    "MainNet/1 - Main Notes/Programming/A Star Path Finding.md"
+    "MainNet/1 - Main Notes/Non-Euclidian Spaces.md"
   ]
 }
