@@ -1,6 +1,6 @@
 2025-07-19 02:35
 
-Status:
+Status: [[Ticket Rarity]]
 
 Tags:
 
