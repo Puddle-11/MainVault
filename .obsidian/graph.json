@@ -27,6 +27,27 @@
         "a": 1,
         "rgb": 1446948
       }
+    },
+    {
+      "query": "Game Engine",
+      "color": {
+        "a": 1,
+        "rgb": 16723554
+      }
+    },
+    {
+      "query": "Unity",
+      "color": {
+        "a": 1,
+        "rgb": 16660947
+      }
+    },
+    {
+      "query": "Graphics",
+      "color": {
+        "a": 1,
+        "rgb": 16745006
+      }
     }
   ],
   "collapse-display": true,
@@ -36,9 +57,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10.7291666666667,
+  "repelStrength": 13.6458333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588386562181726,
+  "scale": 0.18462326225858988,
   "close": true
 }
