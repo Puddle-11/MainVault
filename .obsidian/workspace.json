@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Ticket Rarity"
             }
+          },
+          {
+            "id": "3647f157ab99b737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,17 +201,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c918a587c0c3b377",
+  "active": "3647f157ab99b737",
   "lastOpenFiles": [
-    "Untitled 4.md",
+    "Untitled.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
+    "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Choose Trump.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Regen Discard.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Full Random Suit.md",
     "MainNet/7 - Tags/Physics.md",
