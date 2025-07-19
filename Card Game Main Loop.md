@@ -6,8 +6,7 @@ Tags: [[Card Game Prototype]]
 
 ## Card Game Main Loop
 The main loop of the game is as follows.
-1. Both players draw up to 7 cards for their hand
-2. 
+1. Each player is given one [[Ticket]] at the start of their turn. this ticket is unknown to the player and has a special effect, 
 
 
 ## References
