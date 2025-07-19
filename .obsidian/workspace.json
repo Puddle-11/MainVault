@@ -55,9 +55,33 @@
               "icon": "lucide-file",
               "title": "Ticket Rarity"
             }
+          },
+          {
+            "id": "e8011b9d1d85ea4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ticket Rarity"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "0aa31d799d627ae9",
@@ -219,14 +243,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "941c47f4e4c9e5da",
+  "active": "e8011b9d1d85ea4a",
   "lastOpenFiles": [
+    "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
+    "Untitled.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Regen Discard.md",
     "Full Random Suit.md",
-    "Untitled.md",
     "MainNet/7 - Tags/Physics.md",
-    "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
     "MainNet/1 - Main Notes/Labyrinth.md",
     "Untitled 1.md",
