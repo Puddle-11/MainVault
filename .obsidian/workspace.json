@@ -107,10 +107,24 @@
             "id": "956a58def35fda04",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MainNet/7 - Tags/Programming.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Programming"
             }
           }
         ],
@@ -261,21 +275,23 @@
   },
   "active": "956a58def35fda04",
   "lastOpenFiles": [
+    "MainNet/7 - Tags/Programming.md",
+    "MainNet/1 - Main Notes/Labyrinth.md",
+    "MainNet/1 - Main Notes/Simply Connected Maze.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Choose Trump.md",
-    "MainNet/1 - Main Notes/Physics/Overlapping Space.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Full Random Suit.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Regen Discard.md",
+    "MainNet/1 - Main Notes/Physics/Overlapping Space.md",
     "New Text Document.txt",
     "Untitled.md",
-    "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
-    "MainNet/1 - Main Notes/Card Game Prototype/Regen Discard.md",
     "MainNet/1 - Main Notes/Physics/Non-Euclidian Spaces.md",
     "Untitled 5.md",
     "Untitled 4.md",
     "Untitled 2.md",
     "Untitled 3.md",
-    "MainNet/7 - Tags/Programming.md",
-    "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
     "Untitled 1.md",
     "MainNet/1 - Main Notes/Physics/General Theory of Relativity.md",
     "MainNet/1 - Main Notes/Physics/Light Cones.md",
@@ -283,8 +299,6 @@
     "MainNet/1 - Main Notes/Programming/Gun Clipping.md",
     "MainNet/7 - Tags/Physics.md",
     "MainNet/1 - Main Notes/Programming/FlyWeight Design Pattern.md",
-    "MainNet/1 - Main Notes/Labyrinth.md",
-    "MainNet/1 - Main Notes/Simply Connected Maze.md",
     "MainNet/1 - Main Notes/Programming/A Star Path Finding.md",
     "MainNet/7 - Tags/Mazes.md",
     "MainNet/1 - Main Notes/Physics",
