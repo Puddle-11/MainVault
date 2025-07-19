@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Choose Trump.md",
+                "file": "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Choose Trump"
+              "title": "Ticket Rarity"
             }
           },
           {
@@ -227,9 +227,10 @@
   },
   "active": "cf1274c68402b040",
   "lastOpenFiles": [
-    "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
-    "Choose Trump.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Regen Discard.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Choose Trump.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -249,7 +250,6 @@
     "MainNet/7 - Tags/Mazes.md",
     "MainNet/1 - Main Notes/Physics",
     "MainNet/1 - Main Notes/Card Game Prototype",
-    "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
     "MainNet/1 - Main Notes/Programming/Swap Chain.md",
     "MainNet/1 - Main Notes/Programming/Gaussian Blur.md",
     "MainNet/1 - Main Notes/Programming/OpenGL.md",

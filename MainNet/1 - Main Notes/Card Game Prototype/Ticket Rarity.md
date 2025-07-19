@@ -23,6 +23,6 @@ Rare (0.12-0.06):
 
 Mythical (0.05-0.001):
 [[Full Trump Suit]]: 0.05
-[[Choose Trump]]:
+[[Choose Trump]]: 0.05
 
 ## References
