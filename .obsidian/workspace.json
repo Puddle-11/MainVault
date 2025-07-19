@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dfd2703f4aaa30c8",
+        "id": "6092c9c91508cbf4",
         "type": "tabs",
         "children": [
           {
-            "id": "ee388af79395eb95",
+            "id": "881f3676754b1d17",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,7 +162,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ee388af79395eb95",
+  "active": "881f3676754b1d17",
   "lastOpenFiles": [
     "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
     "Untitled 3.md",
