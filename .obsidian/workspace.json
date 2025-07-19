@@ -11,10 +11,24 @@
             "id": "5f97e8b14c639a7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -164,8 +178,8 @@
   },
   "active": "5f97e8b14c639a7e",
   "lastOpenFiles": [
-    "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
     "Untitled.md",
+    "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
