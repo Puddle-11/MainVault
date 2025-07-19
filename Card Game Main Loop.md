@@ -10,7 +10,8 @@ The main loop of the game is as follows.
 
 1. Each player is given one [[Ticket]] at the start of their turn. this ticket is unknown to the player and has a special effect, the ticket given is determined by a random pull given each tickets [[Ticket Rarity]].
 2. Each player can now draw up to 7 cards for the hand.
-3. Each player at this point each player can choose to play their [[Ticket]] until they play their 3 cards for the hand, or save their [[Ticket]] for the next round, [[Ticket]]'s roll over and are cumulative so its possible to a accrue up to 7 total [[Ticket]]'s at once which can be used on one hand.
+3. Each player at this point each player can choose to play their [[Ticket]] until they play their 3 cards for the hand, or save their [[Ticket]] for the next round, [[Ticket]]'s roll over and are cumulative so its possible to a accrue up to 7 total [[Ticket]]'s at once which can be used on one hand. They can also use their discards in an attempt to get better cards, each player is given 3 discards at the start of the game, however may earn more through tickets. 
+4. 
  
 
 ## References
