@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "Ticket Rarity",
+      "query": "Card Game Prototype",
       "color": {
         "a": 1,
         "rgb": 14859314
@@ -32,6 +32,6 @@
   "repelStrength": 9.6875,
   "linkStrength": 0.96875,
   "linkDistance": 250,
-  "scale": 0.5087618855792607,
+  "scale": 0.5087618855792615,
   "close": false
 }
