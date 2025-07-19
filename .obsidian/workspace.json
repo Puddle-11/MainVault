@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "16d7fb9bc078a1f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ticket Rarity"
+            }
+          },
+          {
             "id": "956a58def35fda04",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,11 +249,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cf1274c68402b040",
+  "active": "16d7fb9bc078a1f4",
   "lastOpenFiles": [
+    "Untitled 4.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Card Game Prototype.md",
-    "Untitled 2.md",
     "MainNet/7 - Tags/Programming.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Regen Discard.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Increased Damage.md",
@@ -252,8 +278,6 @@
     "MainNet/1 - Main Notes/Physics",
     "MainNet/1 - Main Notes/Card Game Prototype",
     "MainNet/1 - Main Notes/Programming/Swap Chain.md",
-    "MainNet/1 - Main Notes/Programming/Gaussian Blur.md",
-    "MainNet/1 - Main Notes/Programming/OpenGL.md",
-    "MainNet/1 - Main Notes/Programming/Perlin Noise.md"
+    "MainNet/1 - Main Notes/Programming/Gaussian Blur.md"
   ]
 }
