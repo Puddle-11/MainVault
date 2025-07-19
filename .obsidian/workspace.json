@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Full Random Suit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Full Random Suit"
             }
           }
         ]
@@ -176,7 +176,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5f97e8b14c639a7e",
+  "active": "772dcd9a21f8c88e",
   "lastOpenFiles": [
     "Untitled.md",
     "MainNet/1 - Main Notes/Card Game Prototype/Ticket Rarity.md",
