@@ -9,4 +9,4 @@ Tags:
 
 
 ## References
-![[Card Game Prototype Board.png]]
+![[Card Game Prototype Board.png]]![[Card Game Prototype Selected Cards.png]]
