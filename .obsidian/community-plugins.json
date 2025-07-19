@@ -1,4 +1,6 @@
 [
   "github-sync",
-  "dataview"
+  "dataview",
+  "colored-text",
+  "colored-tags"
 ]
