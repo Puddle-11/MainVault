@@ -18,7 +18,7 @@ Game 4:
 	Hook: Start as a student in Comp Sci with engineering attributes that you can level up through your career  
 
 Game 5:
-	Genre: Metroidvania + Bullet Hell
+	Genre: Metroid Vania + Bullet Hell
 	Hook: Aerial based combat
 	Setting: Steampunk setting
 	Style: TBA
@@ -35,5 +35,5 @@ Game 7: < Selected!
 	Rule: Leave something behind (your employees bodies)
 	Setting: Lovecraftian
 	Theme: Serial Killer
-	Hook: You're a corporate CEO and you eat your employees soul to raise your stock prices, newer talent is worth less, senior talent is worth more. Losing to much newer talent can scare senior talent away. Being sued, investigations, the news, etc are all aspects that can affect your stock. 
+	Hook: You're a corporate CEO and you eat your employees soul to raise your stock prices, newer talent is worth less, senior talent is worth more. Losing to much newer talent can scare senior talent away. Being sued, investigations, the news, etc. are all aspects that can affect your stock. 
 	Style: top down 3d psx style
