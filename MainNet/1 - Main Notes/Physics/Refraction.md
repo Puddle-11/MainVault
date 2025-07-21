@@ -1,6 +1,6 @@
 2025-07-19 03:54
 
-Status: #alpha
+Status: 
 
 Tags: [[Physics]]
 
