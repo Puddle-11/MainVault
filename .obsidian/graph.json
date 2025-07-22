@@ -1,65 +1,93 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "Programming",
+      "query": "Prototypes",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "Card Game Prototype",
+      "query": "Metroidvania Prototype",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
+      "query": "Card Game prototype",
+      "color": {
+        "a": 1,
+        "rgb": 6084351
+      }
+    },
+    {
       "query": "Physics",
       "color": {
         "a": 1,
-        "rgb": 1446948
-      }
-    },
-    {
-      "query": "Game Engine",
-      "color": {
-        "a": 1,
-        "rgb": 16723554
-      }
-    },
-    {
-      "query": "Unity",
-      "color": {
-        "a": 1,
-        "rgb": 16660947
+        "rgb": 0
       }
     },
     {
       "query": "Graphics",
       "color": {
         "a": 1,
-        "rgb": 16745006
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "Programming",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "Mazes",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "Game engines",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "Color theory",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "Areas",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 13.6458333333333,
+  "repelStrength": 15.1041666666667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.2588386562181791,
+  "linkDistance": 214,
+  "scale": 0.18462326225860382,
   "close": true
 }

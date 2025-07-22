@@ -1,8 +1,9 @@
+---
+tags: 
+Links:
+---
 {{date}} {{time}}
 
-Status:
-
-Tags:
 
 ## {{Title}}
 

@@ -1,11 +1,11 @@
-2025-07-21 19:54
+---
+Status: in progress
+tags:
+  - Prototype
+Links: "[[Metroidvania Prototype]]"
+Deadline: 0001-01-01
+---
+2025-07-21 20:45
+# Metroidvania Combat
 
-Status:
 
-Tags:
-
-## Metroidvania Combat
-This is how the metroidvania combat will work
-
-
-## References

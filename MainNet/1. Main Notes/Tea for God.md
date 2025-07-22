@@ -1,11 +1,6 @@
-2025-07-17 01:49
+---
+tags:
+  - resource
+Area: "[[Games]]"
+---
 
-Status:
-
-Tags: [[Non-Euclidian Spaces]]
-
-## Tea for God
-
-
-
-## References

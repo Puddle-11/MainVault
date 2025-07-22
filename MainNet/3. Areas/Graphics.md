@@ -1,7 +1,7 @@
 ---
 tags:
   - Area
-Links: "[[Areas]]"
+Links: "[[Resources]]"
 ---
 ```dataview
 list

@@ -1,6 +1,5 @@
 ---
 tags:
   - resource
-Area: "[[Physics]]"
+Area: "[[Color Theory]]"
 ---
-
