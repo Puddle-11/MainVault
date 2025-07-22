@@ -5,5 +5,5 @@ Links: "[[Resources]]"
 ---
 ```dataview
 list
-from [[]]
+from [[Graphics]]
 ```

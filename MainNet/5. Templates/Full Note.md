@@ -1,6 +1,6 @@
 ---
 tags: 
-Links:
+Links: "[[Areas]]"
 ---
 {{date}} {{time}}
 
