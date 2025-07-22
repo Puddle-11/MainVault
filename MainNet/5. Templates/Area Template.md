@@ -1,0 +1,5 @@
+---
+tags:
+  - Area
+Links: "[[Areas]]"
+---

@@ -16,4 +16,4 @@ Game 5:
 Game 6:
 	[[Body Switch RPG]]
 Game 7: < Selected!
-[[Buisness Sim]]
+[[Business Sim]]
