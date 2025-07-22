@@ -1,3 +1,0 @@
-[[OpenGL]]
-[[Vulkan]]
-[[DirectX]]
