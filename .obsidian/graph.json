@@ -8,73 +8,80 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Prototypes",
+      "query": "Areas",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16777215
       }
     },
     {
-      "query": "Metroidvania Prototype",
+      "query": "Prototypes",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 473932
       }
     },
     {
       "query": "Card Game prototype",
       "color": {
         "a": 1,
-        "rgb": 6084351
+        "rgb": 1149618
       }
     },
     {
       "query": "Physics",
       "color": {
         "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "Graphics",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "Programming",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
+        "rgb": 831657
       }
     },
     {
       "query": "Mazes",
       "color": {
         "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "Game engines",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
+        "rgb": 448160
       }
     },
     {
       "query": "Color theory",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 8639619
       }
     },
     {
-      "query": "Areas",
+      "query": "Game engines",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 16765286
+      }
+    },
+    {
+      "query": "Graphics Programming",
+      "color": {
+        "a": 1,
+        "rgb": 16223339
+      }
+    },
+    {
+      "query": "Programming",
+      "color": {
+        "a": 1,
+        "rgb": 15681391
+      }
+    },
+    {
+      "query": "Games",
+      "color": {
+        "a": 1,
+        "rgb": 16079813
+      }
+    },
+    {
+      "query": "Design",
+      "color": {
+        "a": 1,
+        "rgb": 12999935
       }
     }
   ],
@@ -88,6 +95,6 @@
   "repelStrength": 13.8541666666667,
   "linkStrength": 0.911458333333333,
   "linkDistance": 155,
-  "scale": 0.13168724279837615,
+  "scale": 0.13168724279837765,
   "close": true
 }

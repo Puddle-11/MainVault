@@ -11,6 +11,7 @@ The Octalysis Framework outlines 8 different facets for fun/gamification.
 
 
 ### Epic Meaning
+Epic meaning is the drive for players or users to do something "greater" than themselves
 
 ### Empowerment
 
