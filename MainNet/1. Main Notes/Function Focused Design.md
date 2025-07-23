@@ -4,7 +4,7 @@ tags:
 Area: "[[Design]]"
 ---
 
-# Game Design
+# Function Focused Design
 
-[[Games]]
+
 ## Resources

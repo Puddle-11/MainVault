@@ -2,7 +2,7 @@
 
 Status: 
 
-Tags:[[Graphics]] 
+Tags:[[Graphics Programming]] 
 
 
 ## Gaussian Blur

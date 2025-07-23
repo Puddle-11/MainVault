@@ -2,7 +2,7 @@
 
 Status: 
 
-Tags: [[Programming]] [[Graphics]]
+Tags: [[Programming]] [[Graphics Programming]]
 
 ## Swap Chain
 

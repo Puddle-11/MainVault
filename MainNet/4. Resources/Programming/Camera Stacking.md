@@ -2,7 +2,7 @@
 
 Status: 
 
-Tags: [[Programming]] [[Graphics]]
+Tags: [[Programming]] [[Graphics Programming]]
 
 ## Camera Stacking
 Camera stacking is a method of setting a camera to overlay and stacking it on top of another camera to render out to the main screen.
