@@ -5,7 +5,7 @@ Status:
 Tags:[[Ticket Rarity]] [[Card Game Prototype]]
 
 ## Choose Trump
-
+Choose the next trump suit
 
 
 ## References

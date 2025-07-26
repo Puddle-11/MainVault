@@ -1,11 +1,10 @@
-2025-07-15 19:37
-
-Status: 
-
-Tags:  [[Programming]] 
-
-
+---
+tags:
+  - resource
+Area: "[[Programming]]"
+---
 ## Randomized Prims Algorithm
+
 
 ### Explanation
 Prims algorithm is a simple algorithm to make a Simply Connected Maze.
@@ -26,4 +25,5 @@ The complexity of this algorithm is low, since it is not recursive and doesn't i
 
 ## References
 [Prims Algorithm Medium paper](https://cantwell-tom.medium.com/prims-algorithm-as-a-maze-in-javascript-aec7415ad2cd)
+
 

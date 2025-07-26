@@ -1,11 +1,10 @@
-2025-07-15 21:27
+---
+tags:
+  - resource
+Area: "[[Mazes]]"
+---
 
-Status:
-
-Tags: [[Mazes]]
-
-## Labyrinth
+# Labyrinth
 A Labyrinth unlike a [[Simply Connected Maze]] has only one path instead of multiple. A labyrinth will also spiral into the center.
 
-
-## References
+## Resources

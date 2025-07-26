@@ -1,12 +1,10 @@
-2025-07-18 21:07
+---
+tags:
+  - resource
+Area: "[[Programming]]"
+---
 
-Status:
-
-Tags: [[Programming]]
-
-
-## Bowyer-Waston Algorithm
-
+# Bowyer-Waston Algorithm
 
 
-## References
+## Resources

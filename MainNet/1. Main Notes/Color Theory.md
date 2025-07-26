@@ -1,14 +1,15 @@
 ---
 tags:
   - Area
-Links: "[[Resources]]"
+Links: "[[Design]]"
 ---
 ```dataview
 list
 from [[]]
 ```
 
-Color theory is the study of how colors work together in a piece. there are many general rules for color theory but the one most people know about is color palettes. Some common ones are [[Complementary Colors]], [[Analogous Colors]], [[Monochromatic Colors]], [[Split Complementary Colors]], and many more
+Color theory is the study of how colors work together in a piece. there are many general rules for color theory but the one most people know about is color palettes.
+
 
 
 ## References

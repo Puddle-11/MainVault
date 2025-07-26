@@ -1,11 +1,10 @@
-2025-07-15 19:53
+---
+tags:
+  - resource
+Area: "[[Programming]]"
+---
 
-Status: 
-
-Tags:   [[Programming]]
-
-## Perlin Noise
+# Perlin Noise
 
 
-
-## References
+## Resources

@@ -5,7 +5,7 @@ Status:
 Tags:[[Card Game Prototype]]
 
 ## Regen Health
-
+Regenerate a heart
 
 
 ## References

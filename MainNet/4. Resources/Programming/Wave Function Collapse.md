@@ -1,12 +1,10 @@
-2025-07-15 19:45
+---
+tags:
+  - resource
+Area: "[[Programming]]"
+---
 
-Status: 
-
-Tags:[[Programming]]
-
-
-## Wave Function Collapse
-
+# Wave Function Collapse
 
 
-## References
+## Resources

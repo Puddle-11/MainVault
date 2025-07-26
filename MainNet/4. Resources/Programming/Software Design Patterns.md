@@ -1,10 +1,10 @@
-2025-07-18 03:45
+---
+tags:
+  - resource
+Area: "[[Programming]]"
+---
 
-Status:
-
-Tags: [[Programming]]
-
-## Design Patterns
+## Software Design Patterns
 Design patterns in programming are a way to structure your code for scalability. 
 
 

@@ -1,11 +1,10 @@
-2025-07-15 20:15
+---
+tags:
+  - resource
+Area: "[[Programming]]"
+---
 
-Status: 
-
-Tags: [[Programming]]
-
-## Player Controls
+# Player Controls
 
 
-
-## References
+## Resources

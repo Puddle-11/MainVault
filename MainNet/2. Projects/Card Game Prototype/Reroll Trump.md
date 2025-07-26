@@ -5,7 +5,7 @@ Status:
 Tags:[[Card Game Prototype]]
 
 ## Reroll Trump
-
+Reroll the trump suit
 
 
 ## References

@@ -1,11 +1,10 @@
-2025-07-15 19:38
+---
+tags:
+  - resource
+Area: "[[Programming]]"
+---
 
-Status: 
-
-Tags: [[Programming]]
-
-## A Star Path Finding
+# A Star Path Finding
 
 
-
-## References
+## Resources
