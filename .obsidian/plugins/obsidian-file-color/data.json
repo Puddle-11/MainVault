@@ -3,24 +3,10 @@
   "colorBackground": true,
   "palette": [
     {
-      "id": "wQC-LhH9nO5MFbvdX-1eU",
-      "name": "Physics",
-      "value": "#141624"
-    },
-    {
-      "id": "ftfjayeb__XO5zCUZFHA3",
-      "name": "Programming",
-      "value": "#e05252"
+      "id": "Fy-fcodBFff6FgqttrgQ3",
+      "name": "Red",
+      "value": "#ff0000"
     }
   ],
-  "fileColors": [
-    {
-      "path": "MainNet/4. Resources/Programming",
-      "color": "ftfjayeb__XO5zCUZFHA3"
-    },
-    {
-      "path": "MainNet/4. Resources/Physics",
-      "color": "wQC-LhH9nO5MFbvdX-1eU"
-    }
-  ]
+  "fileColors": []
 }
