@@ -16,5 +16,13 @@
       ],
       "key": "L"
     }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
+    }
   ]
 }
