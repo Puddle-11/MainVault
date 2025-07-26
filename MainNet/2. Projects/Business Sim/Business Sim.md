@@ -8,7 +8,7 @@ Deadline: 0001-01-01
 2025-07-21 20:28
 # Business Sim
 
-	Genre: Business Sim
+Genre: Business Sim
 	Rule: Leave something behind (your employees bodies)
 	Setting: Lovecraftian
 	Theme: Serial Killer

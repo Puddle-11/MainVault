@@ -1,10 +1,10 @@
 ---
 tags:
   - resource
-Area: "[[Game Engines]]"
+Area: "[[Card Game Prototype]]"
 ---
 
-# Godot
+# Tickets
 
 
 ## Resources

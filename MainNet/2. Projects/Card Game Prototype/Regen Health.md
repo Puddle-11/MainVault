@@ -1,11 +1,10 @@
-2025-07-19 02:54
-
-Status:
-
-Tags:[[Card Game Prototype]]
-
-## Regen Health
+---
+tags:
+  - resource
+Area: "[[Ticket]]"
+---
+[[Card Game Prototype]]
+# Regen Health
 Regenerate a heart
 
-
-## References
+## Resources

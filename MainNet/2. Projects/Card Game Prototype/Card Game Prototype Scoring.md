@@ -1,11 +1,10 @@
-2025-07-19 03:52
+---
+tags:
+  - resource
+Area: "[[Card Game Prototype]]"
+---
 
-Status:
-
-Tags: [[Card Game Prototype]]
-
-## Card Game Prototype Scoring
+# Card Game Prototype Scoring
 
 
-
-## References
+## Resources

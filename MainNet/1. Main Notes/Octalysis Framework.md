@@ -1,6 +1,7 @@
 ---
 tags:
   - resource
+  - "#alpha"
 Area: "[[Theories of Fun]]"
 ---
 

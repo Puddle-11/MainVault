@@ -1,11 +1,11 @@
-2025-07-19 02:54
+---
+tags:
+  - resource
+Area: "[[Ticket]]"
+---
 
-Status:
-
-Tags: [[Card Game Prototype]]
-
-## Trump Suit
+[[Card Game Prototype]]
+# Trump Suit
 Change one card in hand into the trump suit
 
-
-## References
+## Resources
