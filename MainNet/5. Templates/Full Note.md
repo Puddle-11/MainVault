@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - alpha
 Links: "[[Areas]]"
 ---
 {{date}} {{time}}

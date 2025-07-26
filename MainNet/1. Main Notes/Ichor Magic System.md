@@ -6,9 +6,9 @@ tags:
 Links: "[[Projects]]"
 Deadline: 0001-01-01
 ---
-{{date}} {{time}}
+2025-07-26 01:33
 
-# {{Title}}
+# Ichor Magic System
 
 
 ## Resources
