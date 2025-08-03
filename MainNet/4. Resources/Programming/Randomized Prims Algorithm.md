@@ -7,7 +7,7 @@ Area: "[[Programming]]"
 
 
 ### Explanation
-Prims algorithm is a simple algorithm to make a Simply Connected Maze.
+Prims algorithm is a simple algorithm to make a [[Simply Connected Maze]].
 
 In my implementation i had walls between each cell on a grid, however in other implementations such as the Medium paper one, the *walls* are simply other cells with some cells being regarded as walls and others as floor or clearable tiles.
 
