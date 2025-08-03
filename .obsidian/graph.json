@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -67,7 +67,7 @@
       "query": "Games",
       "color": {
         "a": 1,
-        "rgb": 16079813
+        "rgb": 16730096
       }
     },
     {
@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 1149618
       }
+    },
+    {
+      "query": "Drugs",
+      "color": {
+        "a": 1,
+        "rgb": 6921397
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +102,6 @@
   "repelStrength": 13.8541666666667,
   "linkStrength": 0.911458333333333,
   "linkDistance": 155,
-  "scale": 0.18462326225862513,
+  "scale": 0.18462326225862782,
   "close": true
 }
