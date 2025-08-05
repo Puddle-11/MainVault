@@ -3,7 +3,7 @@
   "promptDelete": false,
   "defaultViewMode": "source",
   "spellcheck": true,
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "newFileFolderPath": "MainNet/1. Main Notes",
   "attachmentFolderPath": "MainNet/6. Assets"
 }

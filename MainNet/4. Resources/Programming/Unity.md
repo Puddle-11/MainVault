@@ -1,13 +1,16 @@
-2025-07-16 02:55
+---
+tags:
+  - resource
+  - alpha
+Area: "[[Unity]]"
+---
 
-Status:
-
-Tags:
-
-## Unity
+# Unity
 Unity is one of the three major [[Game Engines]] used in the industry. Unity is specialized for 2d development allowing the user to get close to the root code.
 
-[[Unity Player Update Loop]]
-[[Mechanim]]
-[[ShaderGraph]]
-## References
+```dataview
+list
+from [[]] where file.name != "Unity"
+```
+
+## Resources

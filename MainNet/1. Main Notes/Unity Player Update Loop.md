@@ -1,11 +1,11 @@
-2025-07-19 03:59
+---
+tags:
+  - resource
+  - alpha
+Area: "[[Unity]]"
+---
 
-Status:
-
-Tags: [[Unity]]
-
-## Unity Player Update Loop
+# Unity Player Update Loop
 
 
-
-## References
+## Resources

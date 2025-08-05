@@ -9,7 +9,7 @@ Area: "[[Liminality]]"
 
 [[Dream-Core]] is defined by bright color palettes and impossible scenes. This design is supposed to give the feeling of dreaminess that cant quite be found in media based in reality. 
 
-[[Dream-Core]] Is a form of amplified nostalgia, the nostalgia of the past turned up to 11, and perverted. With visuals specifically designed to induce a sense of confusion or unsettledness. 
+[[Dream-Core]] takes nostalgia, amplifies and perverts it. Its specifically designed to induce a sense of confusion or unsettledness. 
 
 ## Resources
 

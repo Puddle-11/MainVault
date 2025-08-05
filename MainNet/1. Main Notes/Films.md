@@ -11,6 +11,7 @@ Area: "[[Resources]]"
 table
 Genre
 from [[]] where file.folder != "MainNet/5. Templates"
+sort Genre desc
 ```
 
 

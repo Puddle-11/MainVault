@@ -7,6 +7,11 @@ Deadline: 0001-01-01
 ---
 2025-07-21 20:27
 # Pink Slips
+```dataview
+list from
+[[]]
+```
+
 
 Name: pink slips
 	Genre: Racing game
