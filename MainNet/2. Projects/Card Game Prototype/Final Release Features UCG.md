@@ -3,6 +3,7 @@ Status: in progress
 tags:
   - alpha
   - "#project"
+  - TODO
 Links: "[[Card Game Prototype]]"
 Deadline: 0001-01-01
 ---

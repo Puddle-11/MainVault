@@ -1,6 +1,6 @@
 ---
 tags:
-  - Area
+  - "#area"
 Links: "[[Programming]]"
 ---
 ```dataview

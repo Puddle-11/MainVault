@@ -7,7 +7,14 @@
       "key": "T"
     }
   ],
-  "workspace:new-tab": [],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
+  ],
   "editor:toggle-checklist-status": [],
   "graph:open-local": [
     {

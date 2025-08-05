@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Deadline": "date"
+    "Deadline": "date",
+    "Location": "text"
   }
 }

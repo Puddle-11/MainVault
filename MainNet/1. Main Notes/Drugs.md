@@ -2,6 +2,7 @@
 tags:
   - resource
   - alpha
+  - "#area"
 Area: "[[Resources]]"
 ---
 

@@ -1,12 +1,13 @@
 ---
 tags:
   - resource
-  - "#alpha"
 Area: "[[Game Developers]]"
 ---
 
 # LocalThunk
-Local Thunk is the developer behind [[Balatro]]
+LocalThunk is the developer behind [[Balatro]], he is anonymous.
+
 
 
 ## Resources
+[LocalThunk Blog](https://localthunk.com/)
