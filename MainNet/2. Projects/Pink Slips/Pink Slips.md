@@ -11,4 +11,5 @@ Deadline: 0001-01-01
 Name: pink slips
 	Genre: Racing game
 	Hook: Go up rank and race for pink slips. Need for Speed Most Wanted has best example
-	
+Base Mechanic:
+	As you race opponents in the campaign you will win their cars, although carful not to lose, or you will lose your car.
