@@ -1,2 +1,0 @@
-[[Labyrinth]]
-[[Simply Connected Maze]]

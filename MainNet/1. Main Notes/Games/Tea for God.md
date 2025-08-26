@@ -1,0 +1,6 @@
+---
+tags:
+  - resource
+Area: "[[Games]]"
+---
+

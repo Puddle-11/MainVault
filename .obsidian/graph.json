@@ -1,52 +1,94 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "Programming",
+      "query": "Areas",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "Card Game Prototype",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
+        "rgb": 16777215
       }
     },
     {
       "query": "Physics",
       "color": {
         "a": 1,
-        "rgb": 1446948
+        "rgb": 831657
       }
     },
     {
-      "query": "Game Engine",
+      "query": "Mazes",
       "color": {
         "a": 1,
-        "rgb": 16723554
+        "rgb": 448160
       }
     },
     {
-      "query": "Unity",
+      "query": "Prototypes",
       "color": {
         "a": 1,
-        "rgb": 16660947
+        "rgb": 1149618
       }
     },
     {
-      "query": "Graphics",
+      "query": "Color theory",
       "color": {
         "a": 1,
-        "rgb": 16745006
+        "rgb": 8639619
+      }
+    },
+    {
+      "query": "Game engines",
+      "color": {
+        "a": 1,
+        "rgb": 16765286
+      }
+    },
+    {
+      "query": "Graphics Programming",
+      "color": {
+        "a": 1,
+        "rgb": 16223339
+      }
+    },
+    {
+      "query": "Programming",
+      "color": {
+        "a": 1,
+        "rgb": 15681391
+      }
+    },
+    {
+      "query": "Games",
+      "color": {
+        "a": 1,
+        "rgb": 16730096
+      }
+    },
+    {
+      "query": "Design",
+      "color": {
+        "a": 1,
+        "rgb": 12999935
+      }
+    },
+    {
+      "query": "Card Game Prototype",
+      "color": {
+        "a": 1,
+        "rgb": 1149618
+      }
+    },
+    {
+      "query": "Drugs",
+      "color": {
+        "a": 1,
+        "rgb": 6921397
       }
     }
   ],
@@ -57,9 +99,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 13.6458333333333,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.713275462622476,
+  "repelStrength": 14.0625,
+  "linkStrength": 0.911458333333333,
+  "linkDistance": 155,
+  "scale": 0.1166089157945766,
   "close": true
 }
