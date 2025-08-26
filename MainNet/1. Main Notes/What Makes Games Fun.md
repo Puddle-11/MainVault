@@ -2,7 +2,6 @@
 tags:
   - resource
   - alpha
-  - TODO
 Area: "[[Game Design]]"
 ---
 
