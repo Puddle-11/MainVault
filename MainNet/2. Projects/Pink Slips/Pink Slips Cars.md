@@ -2,7 +2,7 @@
 Status: finished
 tags:
   - Prototype
-Links: "[[Pink Slips]]"
+Links: "[[MainNet/2. Projects/Pink Slips/Pink Slips]]"
 Deadline: 0001-01-01
 ---
 2025-08-05 10:11
