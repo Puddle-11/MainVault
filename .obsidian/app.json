@@ -5,5 +5,6 @@
   "spellcheck": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "MainNet/1. Main Notes",
-  "attachmentFolderPath": "MainNet/6. Assets"
+  "attachmentFolderPath": "MainNet/6. Assets",
+  "showLineNumber": false
 }

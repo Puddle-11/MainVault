@@ -19,7 +19,3 @@ Speed, Durability, Turning, Responsiveness
 from [[]] where file.folder != "MainNet/5. Templates"
 ```
 
-
-
-
-
