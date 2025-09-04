@@ -2,10 +2,10 @@
 tags:
   - resource
   - alpha
-Area: "[[Physics]]"
+Area: "[[Analog Horror]]"
 ---
 
-# Black Holes
+# Gemini Home Entertainment
 
 
 ## Resources
@@ -17,5 +17,4 @@ Area: "[[Physics]]"
 list
 from [[]]
 ```
-
 

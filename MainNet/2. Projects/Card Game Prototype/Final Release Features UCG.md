@@ -1,7 +1,6 @@
 ---
 Status: in progress
 tags:
-  - alpha
   - "#project"
   - "#done"
 Links: "[[Card Game Prototype]]"

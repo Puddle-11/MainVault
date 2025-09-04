@@ -3,12 +3,18 @@ Status: in progress
 tags:
   - alpha
   - "#project"
-Links: "[[Projects]]"
+Links: "[[Analog Horror]]"
 Deadline: 0001-01-01
 ---
-2025-08-05 01:53
+2025-09-03 23:01
 
-# Game Ideas
+# The Mandela Catalogue
+
+
+## Resources
+
+
+## BackLinks
 
 ```dataview
 list

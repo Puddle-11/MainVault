@@ -1,11 +1,20 @@
-2025-07-18 03:27
+---
+tags:
+  - resource
+  - alpha
+Area: "[[Physics]]"
+---
 
-Status:
-
-Tags: [[Physics]]
-
-## General Theory of Relativity
+# General Theory of Relativity
 
 
+## Resources
 
-## References
+
+## BackLinks
+
+```dataview
+list
+from [[]]
+```
+

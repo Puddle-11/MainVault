@@ -2,10 +2,10 @@
 tags:
   - resource
   - alpha
-Area: "[[Physics]]"
+Area: "[[Games]]"
 ---
 
-# Black Holes
+# Easy Delivery Co.
 
 
 ## Resources
@@ -17,5 +17,4 @@ Area: "[[Physics]]"
 list
 from [[]]
 ```
-
 

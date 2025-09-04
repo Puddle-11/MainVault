@@ -3,10 +3,9 @@ Status: in progress
 tags:
   - Prototype
   - alpha
-  - "#IKATODO"
 Links: "[[Prototypes]]"
-Deadline: 2025-09-12
+Deadline: 0001-01-01
 ---
-2025-07-23 20:39
-# Echo Prototype
+2025-09-03 00:28
+# Untitled
 

@@ -2,10 +2,10 @@
 tags:
   - resource
   - alpha
-Area: "[[Physics]]"
+Area: "[[Games]]"
 ---
 
-# Black Holes
+# Tears of the Kingdom
 
 
 ## Resources
@@ -17,5 +17,4 @@ Area: "[[Physics]]"
 list
 from [[]]
 ```
-
 

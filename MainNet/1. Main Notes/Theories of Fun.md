@@ -1,7 +1,7 @@
 ---
 tags:
   - resource
-Area: "[[Revenue Opimization]]"
+Area: "[[Game Design]]"
 ---
 
 # Theories of Fun

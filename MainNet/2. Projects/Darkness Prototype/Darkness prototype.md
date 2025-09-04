@@ -14,3 +14,11 @@ Genre: Run & Gun Capture the flag
 	goal: fend off enemies from attacking your flag while you race through the labyrinth to destroy theirs
 Base mechanics:
 	When in the dark your health will regenerate but enemies will become enraged, higher damage and higher defense. 
+
+## BackLinks
+
+```dataview
+list
+from [[]]
+```
+

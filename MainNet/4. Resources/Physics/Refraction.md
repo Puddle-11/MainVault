@@ -1,11 +1,20 @@
-2025-07-19 03:54
+---
+tags:
+  - resource
+  - alpha
+Area: "[[Physics]]"
+---
 
-Status: 
-
-Tags: [[Physics]]
-
-## Refraction
+# Refraction
 
 
+## Resources
 
-## References
+
+## BackLinks
+
+```dataview
+list
+from [[]]
+```
+

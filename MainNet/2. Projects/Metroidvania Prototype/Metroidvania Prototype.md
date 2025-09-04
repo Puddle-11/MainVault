@@ -2,8 +2,9 @@
 Status: in progress
 tags:
   - Prototype
+  - "#IKATODO"
 Links: "[[Prototypes]]"
-Deadline: 0001-01-01
+Deadline: 2025-09-12
 ---
 2025-07-21 20:27
 # Metroidvania Prototype
