@@ -4,7 +4,8 @@ tags:
 Area: "[[Game Design]]"
 ---
 
-# Untitled
+# Revenue Opimization
+
 
 for revenue you can split it into three parts,
 retention, [[Theories of Fun]]
