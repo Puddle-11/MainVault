@@ -26,6 +26,10 @@ table Deadline
 from #IKATODO where Deadline < date(today) and file.folder != "MainNet/5. Templates" and Deadline != date(0001-01-01)
 
 ```
-
+## Done
+```dataview
+list
+from #IKADONE
+```
 
 

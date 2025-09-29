@@ -1,7 +1,7 @@
 ---
 Status: in progress
 tags:
-  - "#IKATODO"
+  - IKATODO
 Links: "[[Pink Slips]]"
 Deadline: 2025-09-12
 ---

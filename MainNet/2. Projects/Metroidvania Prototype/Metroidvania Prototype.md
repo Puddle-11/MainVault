@@ -2,7 +2,7 @@
 Status: in progress
 tags:
   - Prototype
-  - "#IKATODO"
+  - "#IKADONE"
 Links: "[[Prototypes]]"
 Deadline: 2025-09-12
 ---

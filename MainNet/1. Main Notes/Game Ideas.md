@@ -12,7 +12,7 @@ Deadline: 0001-01-01
 
 ```dataview
 list
-from [[]]
+from [[]] where file.folder != "MainNet/5. Templates"
 ```
 
 
