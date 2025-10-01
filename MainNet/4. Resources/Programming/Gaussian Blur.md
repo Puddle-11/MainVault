@@ -1,12 +1,20 @@
-2025-07-15 19:43
+---
+tags:
+  - RESOURCE
+  - ALPHA
+Area: "[[Gaussian Blur]]"
+---
 
-Status: 
-
-Tags:[[Graphics Programming]] 
+# Gaussian Blur
 
 
-## Gaussian Blur
+## Resources
 
 
+## BackLinks
 
-## References
+```dataview
+list
+from [[]]
+```
+

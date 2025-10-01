@@ -1,11 +1,20 @@
-2025-07-19 02:07
+---
+tags:
+  - RESOURCE
+  - ALPHA
+Area: "[[software"
+---
 
-Status:
-
-Tags: [[Software Design Patterns]]
-
-## FlyWeight Design Pattern
+# FlyWeight Design Pattern
 
 
+## Resources
 
-## References
+
+## BackLinks
+
+```dataview
+list
+from [[]]
+```
+

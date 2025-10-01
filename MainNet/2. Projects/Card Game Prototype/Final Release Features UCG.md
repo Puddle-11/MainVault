@@ -1,10 +1,10 @@
 ---
-Status: in progress
 tags:
-  - "#project"
-  - "#done"
+  - "#PROJECT"
+  - "#DONE"
 Links: "[[Card Game Prototype]]"
 Deadline: 0001-01-01
+User: Puddle
 ---
 2025-08-01 00:32
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - project
+  - PROJECT
 Links: "[[Projects]]"
 ---
 ---

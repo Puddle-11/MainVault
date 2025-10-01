@@ -1,11 +1,21 @@
-2025-07-16 03:03
+---
+tags:
+  - RESOURCE
+  - ALPHA
+Area: "[[Graphics Programming]]"
+---
 
-Status:
-
-Tags: [[Graphics Programming]]
-
-## DirectX
+# DirectX
 
 
+## Resources
 
-## References
+
+## BackLinks
+
+```dataview
+list
+from [[]]
+```
+
+

@@ -1,6 +1,6 @@
 ---
 tags:
-  - resource
+  - RESOURCE
 Area: "[[Resources]]"
 ---
 
@@ -10,6 +10,8 @@ table
 Genre
 from [[]] where file.folder != "MainNet/5. Templates"
 ```
+
+
 
 
 ## Resources

@@ -1,7 +1,7 @@
 ---
 tags:
-  - alpha
-  - "#project"
+  - ALPHA
+  - "#PROJECT"
 Links: "[[Depono GDD]]"
 ---
 

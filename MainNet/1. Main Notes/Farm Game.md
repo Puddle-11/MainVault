@@ -1,8 +1,7 @@
 ---
-Status: in progress
 tags:
-  - alpha
-  - "#project"
+  - ALPHA
+  - "#PROJECT"
 Links: "[[Game Ideas]]"
 ---
 ---

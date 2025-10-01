@@ -1,6 +1,6 @@
 ---
 tags:
-  - resource
+  - RESOURCE
 Area: "[[Programming]]"
 ---
 ## Randomized Prims Algorithm

@@ -1,7 +1,7 @@
 ---
 tags:
-  - resource
-  - alpha
+  - RESOURCE
+  - ALPHA
 Area: "[[Books]]"
 Genre: Dark Fantasy
 ---

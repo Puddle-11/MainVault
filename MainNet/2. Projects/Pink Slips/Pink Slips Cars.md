@@ -1,7 +1,6 @@
 ---
-Status: finished
 tags:
-  - Prototype
+  - PROTOTYPE
 Links: "[[MainNet/2. Projects/Pink Slips/Pink Slips]]"
 Deadline: 0001-01-01
 ---

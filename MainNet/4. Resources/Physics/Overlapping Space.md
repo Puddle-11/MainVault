@@ -1,5 +1,5 @@
 ---
 tags:
-  - resource
+  - RESOURCE
 Area: "[[Physics]]"
 ---

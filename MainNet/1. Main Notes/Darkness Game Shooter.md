@@ -1,8 +1,7 @@
 ---
-Status: in progress
 tags:
-  - Prototype
-  - alpha
+  - PROTOTYPE
+  - ALPHA
 Links: "[[Darkness prototype]]"
 Deadline: 0001-01-01
 ---

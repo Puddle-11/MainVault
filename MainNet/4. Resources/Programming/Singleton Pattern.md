@@ -1,11 +1,20 @@
-2025-07-16 00:43
+---
+tags:
+  - RESOURCE
+  - ALPHA
+Area: "[[Software Design Patterns]]"
+---
 
-Status:
-
-Tags:[[Software Design Patterns]]
-
-## Singleton Pattern
+# Singleton Pattern
 
 
+## Resources
 
-## References
+
+## BackLinks
+
+```dataview
+list
+from [[]]
+```
+

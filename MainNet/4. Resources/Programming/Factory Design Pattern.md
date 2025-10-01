@@ -1,11 +1,20 @@
-2025-07-18 03:49
+---
+tags:
+  - RESOURCE
+  - ALPHA
+Area: "[[Software Design Patterns]]"
+---
 
-Status:
-
-Tags: [[Software Design Patterns]]
-
-## Factory Design Pattern
+# Factory Design Pattern
 
 
+## Resources
 
-## References
+
+## BackLinks
+
+```dataview
+list
+from [[]]
+```
+

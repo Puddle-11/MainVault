@@ -1,8 +1,7 @@
 ---
-Status: in progress
 tags:
-  - Prototype
-  - alpha
+  - PROTOTYPE
+  - ALPHA
 Links: "[[Metroidvania Prototype]]"
 Deadline: 0001-01-01
 ---

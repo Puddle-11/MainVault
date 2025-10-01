@@ -8,6 +8,7 @@
     "Responsiveness": "number",
     "Turning": "number",
     "Durability": "number",
-    "Speed": "number"
+    "Speed": "number",
+    "Start Date": "date"
   }
 }

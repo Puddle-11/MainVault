@@ -1,5 +1,5 @@
 
-# IKA Deadlines
+# IKA Todos
 
 ## General
 ```dataview
@@ -23,13 +23,17 @@ from #TODO where Deadline = date(today) and file.folder != "MainNet/5. Templates
 ## Overdue
 ```dataview
 table Deadline
-from #IKATODO where Deadline < date(today) and file.folder != "MainNet/5. Templates" and Deadline != date(0001-01-01)
+from #IKATODO where Deadline < date(today) and file.folder != "MainNet/5. Templates" and Deadline != date(0001-01-01) and !contains(file.tags, "#DONE")
 
 ```
 ## Done
 ```dataview
 list
-from #IKADONE
+from #IKATODO where contains(file.tags, "#DONE")
 ```
+
+
+
+
 
 

@@ -1,7 +1,6 @@
 ---
-Status: in progress
 tags:
-  - Prototype
+  - PROTOTYPE
 Links: "[[Projects]]"
 Deadline: 0001-01-01
 ---

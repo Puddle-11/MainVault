@@ -1,11 +1,20 @@
-2025-07-19 03:38
+---
+tags:
+  - RESOURCE
+  - ALPHA
+Area: "[[Card Game Prototype]]"
+---
 
-Status:
+# Discards
+players can select up to 3 cards to discard
 
-Tags: [[Card Game Prototype]]
-
-## Discards
-- Players can select up to 
+## Resources
 
 
-## References
+## BackLinks
+
+```dataview
+list
+from [[]]
+```
+

@@ -10,8 +10,11 @@ SORT file.name asc
 ### In Progress
 ```dataview
 list
-where Status = "in progress" and file.folder != "MainNet/5. Templates"
+from #project
+where !contains(file.tags, "#DONE") and file.folder != "MainNet/5. Templates"
 ```
+
+
 
 
 

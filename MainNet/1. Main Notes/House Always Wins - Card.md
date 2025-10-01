@@ -1,8 +1,7 @@
 ---
-Status: in progress
 tags:
-  - alpha
-  - "#project"
+  - ALPHA
+  - "#PROJECT"
 Links: "[[Depono Feature list]]"
 Deadline: 0001-01-01
 ---

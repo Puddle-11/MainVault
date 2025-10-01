@@ -1,7 +1,7 @@
 ---
 tags:
-  - resource
-  - alpha
+  - ALPHA
+  - "#RESOURCE"
 Area: "[[Game Developers]]"
 ---
 

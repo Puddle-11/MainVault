@@ -1,7 +1,6 @@
 ---
-Status: in progress
 tags:
-  - Prototype
+  - PROTOTYPE
 Links: "[[Pink Slips Cars]]"
 Deadline: 0001-01-01
 Speed: 20

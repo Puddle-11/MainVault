@@ -1,11 +1,11 @@
-2025-07-19 01:38
-
-Status:
-
-Tags:[[Card Game Prototype]]
-
-## Ticket Rarity
-
+---
+tags:
+  - PROTOTYPE
+  - ALPHA
+Links: "[[Card Game Main Loop]]"
+---
+2025-10-01 00:09
+# Ticket Rarity
 Common (0.75-0.36):
 [[Regen Discard]]: 0.5
 [[Random Suit]]: 0.5
@@ -26,4 +26,11 @@ Mythical (0.05-0.001):
 [[Full Trump Suit]]: 0.05
 
 
-## References
+
+## BackLinks
+
+```dataview
+list
+from [[]]
+```
+

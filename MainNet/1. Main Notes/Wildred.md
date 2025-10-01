@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#words"
+  - "#WORD"
 Word-Tag: "[[Dictionary of Obscure Sorrows]]"
 Area: "[[Words]]"
 ---

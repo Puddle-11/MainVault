@@ -1,11 +1,20 @@
-2025-07-15 19:53
+---
+tags:
+  - RESOURCE
+  - ALPHA
+Area: "[[Graphics Programming]]"
+---
 
-Status: 
-
-Tags: [[Graphics Programming]] 
-
-## Voroni Noise
+# Voronoi Noise
 
 
+## Resources
 
-## References
+
+## BackLinks
+
+```dataview
+list
+from [[]]
+```
+

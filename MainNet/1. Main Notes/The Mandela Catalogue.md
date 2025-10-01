@@ -1,8 +1,7 @@
 ---
-Status: in progress
 tags:
-  - alpha
-  - "#project"
+  - ALPHA
+  - "#PROJECT"
 Links: "[[Analog Horror]]"
 Deadline: 0001-01-01
 ---
