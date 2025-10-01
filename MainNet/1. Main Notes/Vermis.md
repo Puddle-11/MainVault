@@ -1,11 +1,11 @@
 ---
 tags:
-  - RESOURCE
-  - ALPHA
-Area: "[[Graphics Programming]]"
+  - "#RESOURCE"
+  - "#ALPHA"
+Area: "[[Games]]"
 ---
 
-# Gaussian Blur
+# Vermis
 
 
 ## Resources

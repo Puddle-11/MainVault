@@ -1,7 +1,7 @@
 ---
 tags:
-  - RESOURCE
   - ALPHA
+  - PROTOTYPE
 Area: "[[Card Game Prototype]]"
 ---
 

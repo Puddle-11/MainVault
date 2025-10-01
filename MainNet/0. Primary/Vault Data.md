@@ -29,6 +29,27 @@ for (let i = 0; i < counts.length; i++) {
 }
 
 
+const dcounts = days.map(day => 
+	pages.filter(p =>
+			{ 
+			 const deletedDate = p["Date Deleted"];
+			 
+			return deletedDate && deletedDate.toFormat("yyyy-MM-dd") === day 
+			
+			}
+		).length
+	);
+
+const dcumulativeCounts = [];
+let drunningTotal = 0;
+
+for (let i = 0; i < dcounts.length; i++) {
+    drunningTotal += dcounts[i];        // add today's count
+    dcumulativeCounts.push(drunningTotal); // store total so far
+}
+for(let i = 0; i < cumulativeCounts.length; i++){
+	cumulativeCounts[i] = cumulativeCounts[i] - dcumulativeCounts[i];
+}
 const chartData = {
   type: 'line',
   data: {
@@ -36,10 +57,12 @@ const chartData = {
     datasets: [{
       label: "New notes / day",
       data: cumulativeCounts,
-      borderColor: "rgba(153,102,255,1)",
-      fill: false,
-      tension: 0,
-      pointRadius: 0
+      borderColor: "#eb6134",
+      backgroundColor: "#eb613430",
+      fill: true,
+      tension: 0.2,
+      pointRadius: 0,
+      borderWidth: 2
       
     }]
   }
@@ -47,7 +70,6 @@ const chartData = {
 
 window.renderChart(chartData, this.container);
 ```
-
 # Tags
 ```dataviewjs
 
@@ -74,9 +96,9 @@ const chartData = {
     datasets: [{
       label: "Notes per tag",
       data: values,
-      backgroundColor: "rgba(75,192,192,0.4)",
-      borderColor: "rgba(75,192,192,1)",
-      borderWidth: 1
+      backgroundColor: "#eb613430",
+      borderColor: "#eb6134",
+      borderWidth: 2
     }]
   }
 };

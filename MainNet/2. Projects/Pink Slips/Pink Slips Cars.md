@@ -1,7 +1,7 @@
 ---
 tags:
   - PROTOTYPE
-Links: "[[MainNet/2. Projects/Pink Slips/Pink Slips]]"
+Links: "[[Pink Slips]]"
 Deadline: 0001-01-01
 ---
 2025-08-05 10:11
@@ -14,7 +14,7 @@ Responsiveness: 1-50
 ```dataview
 table
 
-Speed, Durability, Turning, Responsiveness
+Speed, Responsiveness
 from [[]] where file.folder != "MainNet/5. Templates"
 ```
 

@@ -6,5 +6,11 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "MainNet/1. Main Notes",
   "attachmentFolderPath": "MainNet/6. Assets",
-  "showLineNumber": false
+  "showLineNumber": false,
+  "trashOption": "local",
+  "userIgnoreFilters": [
+    "MainNet/7. Deleted/",
+    "MainNet/5. Templates/",
+    "MainNet/8. JavaScript/"
+  ]
 }

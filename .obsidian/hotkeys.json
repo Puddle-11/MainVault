@@ -24,12 +24,36 @@
       "key": "L"
     }
   ],
-  "app:delete-file": [
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:MainNet/5. Templates/Deletion.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "templater-obsidian:MainNet/8. JavaScript/Deletion.md": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "Delete"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Insert"
     }
   ]
 }

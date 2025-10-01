@@ -1,4 +1,8 @@
 ---
+tags: RESOURCE
+Area: "[[Card Game Prototype]]"
+---
+---
 tags:
   - RESOURCE
 Area: "[[Card Game Prototype]]"

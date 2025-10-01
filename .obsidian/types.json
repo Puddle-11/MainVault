@@ -9,6 +9,8 @@
     "Turning": "number",
     "Durability": "number",
     "Speed": "number",
-    "Start Date": "date"
+    "Start Date": "date",
+    "Links": "text",
+    "Area": "text"
   }
 }

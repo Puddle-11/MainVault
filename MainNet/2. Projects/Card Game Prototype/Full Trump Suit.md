@@ -1,4 +1,8 @@
 ---
+tags: RESOURCE
+Area: "[[Ticket]]"
+---
+---
 tags:
   - RESOURCE
 Area: "[[Ticket]]"
