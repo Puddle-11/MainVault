@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#AREA"
+  - "#area"
 Links: "[[Games]]"
 ---
 ```dataview

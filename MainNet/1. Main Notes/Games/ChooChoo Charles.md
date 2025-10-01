@@ -1,6 +1,6 @@
 ---
 tags:
-  - RESOURCE
-  - "#ALPHA"
+  - resource
+  - "#alpha"
 Area: "[[Games]]"
 ---

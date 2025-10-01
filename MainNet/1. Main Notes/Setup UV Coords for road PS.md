@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#DONE"
+  - "#done"
 Links: "[[MainNet/2. Projects/Pink Slips/Pink Slips]]"
 Deadline: 2025-08-23
 User: Puddle

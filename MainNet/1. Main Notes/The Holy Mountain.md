@@ -1,6 +1,6 @@
 ---
 tags:
-  - ALPHA
+  - alpha
 Area: "[[Film]]"
 Genre: Dark Fantasy
 Classification: Movie

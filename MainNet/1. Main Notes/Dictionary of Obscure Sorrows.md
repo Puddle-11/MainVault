@@ -1,7 +1,7 @@
 ---
 tags:
-  - RESOURCE
-  - "#DICTIONARY"
+  - resource
+  - "#dictionary"
 Area: "[[Words]]"
 ---
 

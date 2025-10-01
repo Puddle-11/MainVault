@@ -1,6 +1,7 @@
 ---
 tags:
-  - RESOURCE
+  - resource
+  - alpha
 Area: "[[Mazes]]"
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - RESOURCE
+  - resource
 Area: "[[Game Developers]]"
 ---
 

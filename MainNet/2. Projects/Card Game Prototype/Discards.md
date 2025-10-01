@@ -1,7 +1,7 @@
 ---
 tags:
-  - ALPHA
-  - PROTOTYPE
+  - alpha
+  - prototype
 Area: "[[Card Game Prototype]]"
 ---
 

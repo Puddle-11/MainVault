@@ -23,7 +23,7 @@ from #TODO where Deadline < date(today) and file.folder != "MainNet/5. Templates
 ## Done
 ```dataview
 table Deadline, User
-from #DONE where file.folder != "MainNet/5. Templates"
+from #done  where file.folder != "MainNet/5. Templates"
 ```
 
 

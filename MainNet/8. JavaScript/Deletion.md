@@ -1,35 +1,55 @@
 <%*
-const targetFolder = "MainNet/7. Deleted"; // folder name in your vault
+const targetFolder = "MainNet/7. Deleted"; 
 const activeFile = tp.app.workspace.getActiveFile();
 
 if (!activeFile) {
     new Notice("No active file!");
 } else {
-    // 1️⃣ Move the file
-    const newPath = `${targetFolder}/${activeFile.name}`;
-    await tp.app.fileManager.renameFile(activeFile, newPath);
 
-    // 2️⃣ Update YAML frontmatter with Date Deleted
-    const fileCache = tp.app.metadataCache.getFileCache(activeFile);
-    const yaml = fileCache?.frontmatter || {};
+  const newPath = `${targetFolder}/${activeFile.name}`;
+  await tp.app.fileManager.renameFile(activeFile, newPath);
 
-    // Set "Date Deleted" to today in YYYY-MM-DD format
-    const today = new Date();
-    const yyyy = today.getFullYear();
-    const mm = String(today.getMonth() + 1).padStart(2, '0');
-    const dd = String(today.getDate()).padStart(2, '0');
-    yaml["Date Deleted"] = `${yyyy}-${mm}-${dd}`;
 
-    // Rebuild frontmatter string
-    const yamlString = `---\n${Object.entries(yaml).map(([k,v]) => `${k}: ${v}`).join("\n")}\n---\n`;
+  const fileAtNewPath = tp.app.vault.getAbstractFileByPath(newPath);
+  const content = await tp.app.vault.read(fileAtNewPath);
 
-    // Read current content and remove old frontmatter
-    const content = await tp.app.vault.read(activeFile);
-    const contentWithoutYaml = content.replace(/^---\n[\s\S]*?\n---\n/, "");
 
-    // Write back updated frontmatter + content
-    await tp.app.vault.modify(activeFile, yamlString + contentWithoutYaml);
+  const yamlMatch = content.match(/^---\n([\s\S]*?)\n---\n?/);
 
-    new Notice(`Moved ${activeFile.name} to ${targetFolder} and set Date Deleted to ${yaml["Date Deleted"]}`);
+
+  const today = new Date();
+  const yyyy = today.getFullYear();
+  const mm = String(today.getMonth() + 1).padStart(2, '0');
+  const dd = String(today.getDate()).padStart(2, '0');
+  const dateLine = `Date Deleted: ${yyyy}-${mm}-${dd}`;
+
+  let newContent;
+  
+  if (yamlMatch) 
+  {
+    let yamlBody = yamlMatch[1];
+
+    if (/^\s*Date Deleted:/m.test(yamlBody)) 
+    {
+      yamlBody = yamlBody.replace(/(^\s*Date Deleted:.*$)/m, dateLine);
+    } 
+    else 
+    {
+      yamlBody = yamlBody.replace(/\s+$/s, ''); 
+      yamlBody = yamlBody + `\n${dateLine}`;
+    }
+    const tail = content.slice(yamlMatch[0].length);
+    newContent = `---\n${yamlBody}\n---\n${tail}`;
+  } 
+  else 
+  {
+    newContent = `---\n${dateLine}\n---\n\n${content}`;
+  }
+
+
+  await tp.app.vault.modify(fileAtNewPath, newContent);
+
+  new Notice(`Moved ${activeFile.name} to ${targetFolder} and set Date Deleted to ${yyyy}-${mm}-${dd}`);
+
 }
 %>

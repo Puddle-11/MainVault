@@ -1,6 +1,6 @@
 ---
 tags:
-  - RESOURCE
+  - resource
 Area: "[[Programming]]"
 ---
 

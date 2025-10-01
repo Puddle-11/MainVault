@@ -1,6 +1,6 @@
 ---
 tags:
-  - PROTOTYPE
+  - prototype
 Links: "[[Pink Slips]]"
 Deadline: 0001-01-01
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - PROTOTYPE
+  - prototype
 Links: "[[Darkness prototype]]"
 Deadline: 0001-01-01
 ---

@@ -1,5 +1,5 @@
 ---
-tags: RESOURCE
+tags: resource
 Area: "[[Ticket]]"
 ---
 ---

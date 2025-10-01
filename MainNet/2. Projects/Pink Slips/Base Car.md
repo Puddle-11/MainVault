@@ -1,6 +1,6 @@
 ---
 tags:
-  - PROTOTYPE
+  - prototype
 Links: "[[Pink Slips Cars]]"
 Speed: 20
 Responsiveness: 35

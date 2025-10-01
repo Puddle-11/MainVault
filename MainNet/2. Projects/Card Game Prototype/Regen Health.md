@@ -1,5 +1,6 @@
 ---
-tags: RESOURCE
+tags:
+  - prototype
 Area: "[[Ticket]]"
 ---
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
-  - PROTOTYPE
-  - ALPHA
+  - prototype
+  - alpha
 Links: "[[Metroidvania Prototype]]"
 Deadline: 0001-01-01
 ---

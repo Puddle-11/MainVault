@@ -1,7 +1,7 @@
 ---
 tags:
-  - PROTOTYPE
-  - ALPHA
+  - prototype
+  - alpha
 Links: "[[Card Game Main Loop]]"
 ---
 2025-10-01 00:09

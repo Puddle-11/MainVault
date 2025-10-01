@@ -1,8 +1,8 @@
 ---
 tags:
-  - RESOURCE
-  - "#RESOURCE"
-  - "#ALPHA"
+  - resource
+  - "#resource"
+  - "#alpha"
 Area: "[[Physics]]"
 ---
 

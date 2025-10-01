@@ -1,7 +1,7 @@
 ---
 tags:
-  - ALPHA
-  - "#PROJECT"
+  - alpha
+  - "#project"
 Links: "[[Analog Horror]]"
 Deadline: 0001-01-01
 ---

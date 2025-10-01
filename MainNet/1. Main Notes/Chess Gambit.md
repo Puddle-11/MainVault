@@ -1,6 +1,6 @@
 ---
 tags:
-  - PROJECT
+  - project
 Links: "[[Game Ideas]]"
 ---
 --

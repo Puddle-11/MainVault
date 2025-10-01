@@ -29,7 +29,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "MainNet/8. JavaScript/Deletion.md"
+    "MainNet/8. JavaScript/Deletion.md",
+    "MainNet/8. JavaScript/Restore.md"
   ],
   "startup_templates": [
     ""

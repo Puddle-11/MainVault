@@ -1,7 +1,6 @@
 ---
 tags:
-  - RESOURCE
-  - ALPHA
+  - resource
 Area: "[[Physics]]"
 ---
 

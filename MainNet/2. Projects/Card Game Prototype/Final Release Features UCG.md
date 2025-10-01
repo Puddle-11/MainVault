@@ -1,7 +1,7 @@
 ---
 tags:
-  - "#PROJECT"
-  - "#DONE"
+  - "#project"
+  - "#done"
 Links: "[[Card Game Prototype]]"
 Deadline: 0001-01-01
 User: Puddle

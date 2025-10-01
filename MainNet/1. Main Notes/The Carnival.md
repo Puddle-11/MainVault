@@ -1,31 +1,32 @@
 ---
 tags:
-  - PROJECT
+  - project
 Links: "[[Game Ideas]]"
 ---
 ---
-# Steins;Gate
+# The Carnival
 
 Genre:
-
+	Horror
 Main Concept:
-
+	You are a child visiting a circus that seems to warp and distort the minds of its visitors, to trap them.
 Player Hook:
-
+	
 Game Vision:
-
+	
 Unique Selling Point:
-
+	
 Target Audience:
-
+	
 ---
 ### Game References
 
 Game 1:
-	Steins;Gate
+	Little Nightmares
 Game 2:
-	
+	Bramble the mountain king
 Game 3:
+	The Magnus Archives #44, Tightrope
 
 ---
 

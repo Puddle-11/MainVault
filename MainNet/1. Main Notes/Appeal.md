@@ -1,7 +1,7 @@
 ---
 tags:
-  - ALPHA
-  - "#RESOURCE"
+  - alpha
+  - "#resource"
 Area: "[[Revenue Opimization]]"
 ---
 

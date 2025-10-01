@@ -1,8 +1,8 @@
 ---
 tags:
-  - PROTOTYPE
-  - "#IKATODO"
-  - "#DONE"
+  - prototype
+  - "#ikatodo"
+  - "#done"
 Links: "[[Prototypes]]"
 Deadline: 2025-09-12
 ---

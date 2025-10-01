@@ -55,5 +55,13 @@
       ],
       "key": "Insert"
     }
+  ],
+  "templater-obsidian:create-MainNet/8. JavaScript/Restore.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "End"
+    }
   ]
 }

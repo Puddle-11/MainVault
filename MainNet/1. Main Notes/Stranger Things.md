@@ -1,6 +1,6 @@
 ---
 tags:
-  - ALPHA
+  - alpha
 Area: "[[Film]]"
 Genre: Sci-Fi Horror
 Classification: Show

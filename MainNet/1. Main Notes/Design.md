@@ -1,7 +1,7 @@
 ---
 tags:
-  - RESOURCE
-  - "#AREA"
+  - resource
+  - "#area"
 Area: "[[Resources]]"
 ---
 ```dataview

@@ -1,7 +1,7 @@
 ---
 tags:
-  - RESOURCE
-  - ALPHA
+  - resource
+  - alpha
 Area: "[[Liminality]]"
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - PROTOTYPE
+  - prototype
 Links: "[[Prototypes]]"
 Deadline: 2025-09-12
 ---

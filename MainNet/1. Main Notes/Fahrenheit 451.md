@@ -1,6 +1,6 @@
 ---
 tags:
-  - ALPHA
+  - alpha
 Area: "[[Books]]"
 Genre: Dystopian
 ---
