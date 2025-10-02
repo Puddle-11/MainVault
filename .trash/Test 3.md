@@ -3,7 +3,6 @@ tags:
   - "#resource"
   - "#alpha"
 Area: "[[Resources]]"
-Date Deleted: 2025-10-01
 ---
 
 # Test
@@ -13,7 +12,6 @@ Date Deleted: 2025-10-01
 
 
 ## BackLinks
-
 ```dataview
 list
 from [[]]

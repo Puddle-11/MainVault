@@ -40,28 +40,12 @@
       "key": "]"
     }
   ],
-  "templater-obsidian:MainNet/8. JavaScript/Deletion.md": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Delete"
-    }
-  ],
   "app:delete-file": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "Insert"
-    }
-  ],
-  "templater-obsidian:create-MainNet/8. JavaScript/Restore.md": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "End"
     }
   ],
   "templater-obsidian:replace-in-file-templater": [],
@@ -71,6 +55,14 @@
         "Mod"
       ],
       "key": "F9"
+    }
+  ],
+  "templater-obsidian:MainNet/8. JavaScript/Deletion.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
     }
   ]
 }

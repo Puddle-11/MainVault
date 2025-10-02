@@ -1,15 +1,14 @@
 <%*
-const targetFolder = "MainNet/2. Projects/Tasks/Puddle"; 
+const targetFolder = "MainNet/2. Projects/Tasks/Dee"; 
 const activeFile = tp.app.workspace.getActiveFile();
 
 if (!activeFile) {
     new Notice("No active file!");
 } else {
   const newPath = `${targetFolder}/${activeFile.name}`;
-  await tp.app.fileManager.renameFile(activeFile, newPath);
-
-  const fileAtNewPath = tp.app.vault.getAbstractFileByPath(newPath);
-
+    await tp.app.fileManager.renameFile(activeFile, newPath);
+      const fileAtNewPath = tp.app.vault.getAbstractFileByPath(newPath);
+      
   const content = await tp.app.vault.read(fileAtNewPath);
   const yamlMatch = content.match(/^---\n([\s\S]*?)\n---\n?/);
 
@@ -20,7 +19,7 @@ const user = "Puddle";
   const dd = String(today.getDate()).padStart(2, '0');
 
   const dateLine = `Date Assigned: ${yyyy}-${mm}-${dd}`;
-	const userLine = 'User: Puddle';
+	const userLine = 'User: Dee';
   let newContent;
   
   if (yamlMatch) 
@@ -56,6 +55,7 @@ const user = "Puddle";
 
   await tp.app.vault.modify(fileAtNewPath, newContent);
 
-  new Notice(`Assigned to Puddle`);
+  new Notice(`Assigned to Dee`);
+
 }
 %>
