@@ -57,7 +57,7 @@ const chartData = {
     datasets: [{
       label: "New notes / day",
       data: cumulativeCounts,
-      borderColor: "#eb6134",
+      borderColor: "#eb6134ff",
       backgroundColor: "#eb613430",
       fill: true,
       tension: 0.2,

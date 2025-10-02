@@ -63,5 +63,14 @@
       ],
       "key": "End"
     }
+  ],
+  "templater-obsidian:replace-in-file-templater": [],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F9"
+    }
   ]
 }

@@ -1,3 +1,6 @@
+
+# Burn Down
+
 ```dataviewjs
 const backlook = 14;
 
@@ -7,23 +10,87 @@ cutoff.setDate(cutoff.getDate() - backlook);
 
 
 const days = [];
-for (let i = backlook; i > 0; i--) 
+for (let i = backlook; i >= 0; i--) 
 {
   const d = new Date();
   d.setDate(d.getDate() - i);
   days.push(d.toISOString().slice(0,10));
 }
 
-const p_pages = dv.pages().where(p => p.file.ctime >= cutoff && p.User == "Puddle" && !p.file.tags.includes("#done") && p.file.tags.includes("#IKATODO"));
-const p_counts = days.map(day => p_pages.filter(p => p.file.ctime.toFormat("yyyy-MM-dd") === day).length);
+const p_pages = dv.pages().where
+(
+	p => p.file.ctime >= cutoff 
+	&& p.User == "Puddle" 
+	&& p.file.tags.includes("#ikatodo")
+	
+);
 
-const o_pages = dv.pages().where(p => p.file.ctime >= cutoff && p.User == "Owi"&& !p.file.tags.includes("#done") && p.file.tags.includes("#IKATODO"));
-const o_counts = days.map(day => o_pages.filter(p => p.file.ctime.toFormat("yyyy-MM-dd") === day).length);
+//const p_counts = days.map(day => p_pages.filter(p => p.file.ctime.toFormat("yyyy-MM-dd") === day).length);
 
-const d_pages = dv.pages().where(p => p.file.ctime >= cutoff && p.User == "Dee"&& !p.file.tags.includes("#done") && p.file.tags.includes("#IKATODO"));
-const d_counts = days.map(day => d_pages.filter(p => p.file.ctime.toFormat("yyyy-MM-dd") === day).length);
+const p_counts = days.map(day => 
+{
+	const addedCount = p_pages.filter
+	(
+		p => p["Date Assigned"] 
+		&& p["Date Assigned"].toFormat("yyyy-MM-dd") <= day
+	).length;
+	
+	const deletedCount = p_pages.filter
+	(
+		p => p["Date Deleted"] && p["Date Assigned"] 
+		&& p["Date Deleted"].toFormat("yyyy-MM-dd") <= day
+	).length
+	
+	return addedCount - deletedCount;
+});
 
-const chartData = {
+
+const o_pages = dv.pages().where
+(
+	p => p.file.ctime >= cutoff && p.User == "Owi" 
+	&& p.file.tags.includes("#ikatodo")
+);
+const o_counts = days.map(day => {
+	const addedCount = o_pages.filter
+	(
+		p => p["Date Assigned"] 
+		&& p["Date Assigned"].toFormat("yyyy-MM-dd") <= day
+	).length;
+	
+	const deletedCount = o_pages.filter
+	(
+		p => p["Date Deleted"] && p["Date Assigned"] 
+		&& p["Date Deleted"].toFormat("yyyy-MM-dd") <= day
+	).length
+	
+	return addedCount - deletedCount;
+	
+});
+
+const d_pages = dv.pages().where
+(
+	p => p.file.ctime >= cutoff && p.User == "Dee" 
+	&& p.file.tags.includes("#ikatodo")
+);
+
+	const d_counts = days.map(day => {
+	const addedCount = d_pages.filter
+	(
+		p => p["Date Assigned"] 
+		&& p["Date Assigned"].toFormat("yyyy-MM-dd") <= day
+	).length;
+	
+	const deletedCount = d_pages.filter
+	(
+		p => p["Date Deleted"] && p["Date Assigned"] 
+		&& p["Date Deleted"].toFormat("yyyy-MM-dd") <= day
+	).length
+	
+	return addedCount - deletedCount;
+});
+
+const chartData = 
+{
   type: 'line',
   data: {
     labels: days,
@@ -32,7 +99,7 @@ const chartData = {
       data: p_counts,
       borderColor: "#4f756a",
       fill: false,
-      tension: 0.2,
+      tension: 0,
       pointRadius: 0
       
     },
@@ -41,7 +108,7 @@ const chartData = {
       data: o_counts,
       borderColor: "#ffb7c5",
       fill: false,
-      tension: 0.2,
+      tension: 0,
       pointRadius: 0
     },
     {
@@ -49,7 +116,7 @@ const chartData = {
       data: d_counts,
       borderColor: "#d5c1b7",
       fill: false,
-      tension: 0.2,
+      tension: 0,
       pointRadius: 0
     }
     ]
@@ -57,4 +124,82 @@ const chartData = {
 };
 
 window.renderChart(chartData, this.container);
+```
+
+# Burn Up
+```dataviewjs
+const backlook = 14;
+
+
+const cutoff = new Date();
+cutoff.setDate(cutoff.getDate() - backlook);
+
+
+const days = [];
+for (let i = backlook; i >= 0; i--) 
+{
+  const d = new Date();
+  d.setDate(d.getDate() - i);
+  days.push(d.toISOString().slice(0,10));
+}
+
+const pages = dv.pages().where
+(
+	p => p.file.ctime >= cutoff 
+	&& p.file.tags.includes("#ikatodo")
+	
+);
+const counts = days.map(day => 
+{
+	const deletedCount = pages.filter
+	(
+		p => p["Date Deleted"] && p["Date Assigned"] 
+		&& p["Date Deleted"].toFormat("yyyy-MM-dd") <= day
+	).length
+	
+	return deletedCount;
+});
+
+const scopeCount = days.map(day => {
+	const addedCount = pages.filter
+	(
+		p => p["Date Assigned"] 
+		&& p["Date Assigned"].toFormat("yyyy-MM-dd") <= day
+	).length;
+	
+return addedCount;
+})
+
+const layout = {
+  yaxis: {
+    range: [0, 100] // lock y-axis between 0 and 100
+  }
+};
+const chartData = 
+{
+  type: 'line',
+  data: {
+    labels: days,
+    datasets: [{
+      label: "Tasks Completed",
+      data: counts,
+      borderColor: "#eb6134ff",
+	  backgroundColor: "#eb613430",
+      fill: true,
+      tension: 0,
+      pointRadius: 0
+    },
+    {
+      label: "Scope",
+      data: scopeCount,
+      borderColor: "#FFFFFF",
+      fill: false,
+      tension: 0,
+      pointRadius: 0
+    }
+    ]
+  }
+};
+
+window.renderChart(chartData, this.container, layout);
 ```
