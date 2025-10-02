@@ -3,7 +3,7 @@ tags:
   - resource
   - alpha
   - "#area"
-Area: "[[Resources]]"
+Area: "[[Media]]"
 ---
 
 # Movies

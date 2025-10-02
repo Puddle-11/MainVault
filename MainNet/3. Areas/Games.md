@@ -1,7 +1,7 @@
 ---
 tags:
   - "#area"
-Links: "[[Resources]]"
+Links: "[[Media]]"
 ---
 ```dataview
 list

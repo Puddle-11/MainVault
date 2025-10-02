@@ -1,8 +1,7 @@
 [
   "github-sync",
   "dataview",
-  "obsidian-file-color",
-  "templater-obsidian",
   "obsidian-charts",
-  "tag-wrangler"
+  "tag-wrangler",
+  "templater-obsidian"
 ]

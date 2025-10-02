@@ -2,11 +2,10 @@
 tags:
   - "#resource"
   - "#alpha"
-Area: "[[Resources]]"
-Date Deleted: 2025-10-01
+Area: "[[The Magnus Archives]]"
 ---
 
-# Test
+# Gregor Orsinov
 
 
 ## Resources
@@ -19,4 +18,3 @@ list
 from [[]]
 ```
 
-**

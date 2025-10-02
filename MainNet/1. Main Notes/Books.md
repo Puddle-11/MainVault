@@ -1,7 +1,7 @@
 ---
 tags:
   - resource
-Area: "[[Resources]]"
+Area: "[[Media]]"
 ---
 
 # Books

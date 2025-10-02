@@ -1,30 +1,32 @@
 ---
 tags:
-Links:
+  - project
+Links: "[[Game Ideas]]"
 ---
 ---
-# Untitled
+# The Circus
 
 Genre:
-
+	Horror
 Main Concept:
-
+	You are a child visiting a circus that seems to warp and distort the minds of its visitors, to trap them.
 Player Hook:
-
+	
 Game Vision:
-
+	
 Unique Selling Point:
-
+	
 Target Audience:
-
+	
 ---
 ### Game References
 
 Game 1:
-
+	[[Little Nightmares]]
 Game 2:
-
+	[[Bramble. The Mountain King]]
 Game 3:
+	[[TMA 44 - Tight Rope]]
 
 ---
 
