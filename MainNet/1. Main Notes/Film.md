@@ -30,4 +30,9 @@ from [[]] where file.folder != "MainNet/5. Templates" and Classification = "Show
 sort Genre desc
 ```
 
-## Resources
+
+## BackLinks
+
+```dataview
+list from [[]] where file.folder != "MainNet/5. Templates"
+```

@@ -3,9 +3,9 @@ tags:
   - alpha
 Area: "[[Film]]"
 Genre:
-Classification: Show
+Classification: Movie
 ---
-# Steven Universe
+# Asteroid City
 
 
 
