@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "Areas",
@@ -18,7 +18,7 @@
       "query": "Physics",
       "color": {
         "a": 1,
-        "rgb": 831657
+        "rgb": 2594448
       }
     },
     {
@@ -32,7 +32,7 @@
       "query": "Prototypes",
       "color": {
         "a": 1,
-        "rgb": 1149618
+        "rgb": 5151927
       }
     },
     {
@@ -67,7 +67,7 @@
       "query": "Games",
       "color": {
         "a": 1,
-        "rgb": 16730096
+        "rgb": 11553448
       }
     },
     {
@@ -90,6 +90,27 @@
         "a": 1,
         "rgb": 6921397
       }
+    },
+    {
+      "query": "The Magnus Archives",
+      "color": {
+        "a": 1,
+        "rgb": 10703437
+      }
+    },
+    {
+      "query": "Books",
+      "color": {
+        "a": 1,
+        "rgb": 6586179
+      }
+    },
+    {
+      "query": "Film",
+      "color": {
+        "a": 1,
+        "rgb": 5431447
+      }
     }
   ],
   "collapse-display": true,
@@ -97,11 +118,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 17.8125,
   "linkStrength": 1,
   "linkDistance": 177,
-  "scale": 0.083174278359286,
-  "close": true
+  "scale": 0.042315902689766795,
+  "close": false
 }

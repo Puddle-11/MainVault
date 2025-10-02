@@ -1,7 +1,7 @@
 [
   "github-sync",
-  "dataview",
   "obsidian-charts",
   "tag-wrangler",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview"
 ]

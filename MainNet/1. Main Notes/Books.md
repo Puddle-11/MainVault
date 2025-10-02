@@ -7,7 +7,8 @@ Area: "[[Media]]"
 # Books
 ```dataview
 table
-Genre
+Author, Genre
+
 from [[]] where file.folder != "MainNet/5. Templates"
 ```
 

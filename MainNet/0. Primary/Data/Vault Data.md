@@ -55,7 +55,7 @@ const chartData = {
   data: {
     labels: days,
     datasets: [{
-      label: "New notes / day",
+      label: `New notes / day....Total ${cumulativeCounts[cumulativeCounts.length -1]}`,
       data: cumulativeCounts,
       borderColor: "#eb6134ff",
       backgroundColor: "#eb613430",

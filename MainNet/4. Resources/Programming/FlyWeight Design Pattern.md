@@ -2,7 +2,7 @@
 tags:
   - resource
   - alpha
-Area: "[[software"
+Area: "[[Software Design Patterns]]"
 ---
 
 # FlyWeight Design Pattern

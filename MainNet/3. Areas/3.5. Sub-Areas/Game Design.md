@@ -7,7 +7,8 @@ Area: "[[Design]]"
 
 # Game Design
 
-[[Games]]
+
+
 ## Resources
 
 

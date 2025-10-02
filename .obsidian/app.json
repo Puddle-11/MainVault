@@ -7,10 +7,12 @@
   "newFileFolderPath": "MainNet/1. Main Notes",
   "attachmentFolderPath": "MainNet/6. Assets",
   "showLineNumber": false,
-  "trashOption": "local",
+  "trashOption": "system",
   "userIgnoreFilters": [
     "MainNet/7. Deleted/",
     "MainNet/5. Templates/",
     "MainNet/8. JavaScript/"
-  ]
+  ],
+  "useTab": false,
+  "showInlineTitle": true
 }

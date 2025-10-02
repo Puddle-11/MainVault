@@ -8,14 +8,15 @@ Area: "[[Audio Media]]"
 # The Magnus Archives
 
 
-## Resources
+## Episodes
 ```dataview
 list
 from "MainNet/4. Resources/Magnus Archive Episodes"
+sort file.name asc
 ```
 
 
-## BackLinks
+## Resources
 
 ```dataview
 list
