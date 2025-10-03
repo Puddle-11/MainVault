@@ -5,16 +5,8 @@ tags:
 Area: "[[Games]]"
 ---
 
-# Amog us
+# Among us
 
 
 ## Resources
-
-
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
 

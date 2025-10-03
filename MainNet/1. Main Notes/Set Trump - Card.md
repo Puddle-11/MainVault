@@ -16,10 +16,3 @@ Rarity: 15%
 ## Prerequisites
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

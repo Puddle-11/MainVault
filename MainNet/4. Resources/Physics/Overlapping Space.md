@@ -12,10 +12,3 @@ overlapping spaces is a concept in [[Non-Euclidian Spaces]] where two spaces can
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

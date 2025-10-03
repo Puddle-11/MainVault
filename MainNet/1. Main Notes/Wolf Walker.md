@@ -14,10 +14,3 @@ Classification: Movie
 
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

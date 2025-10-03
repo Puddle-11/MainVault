@@ -11,10 +11,3 @@ Area: "[[Eras]]"
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

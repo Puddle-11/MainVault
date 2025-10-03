@@ -11,7 +11,7 @@ Area: "[[Resources]]"
 ## Resources
 
 
-## BackLinks
+## Math Concepts
 
 ```dataview
 list

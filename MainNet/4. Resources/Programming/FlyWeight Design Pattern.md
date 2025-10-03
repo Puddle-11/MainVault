@@ -11,10 +11,3 @@ Area: "[[Software Design Patterns]]"
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

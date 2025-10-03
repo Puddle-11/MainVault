@@ -11,10 +11,3 @@ Area: "[[Physics]]"
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

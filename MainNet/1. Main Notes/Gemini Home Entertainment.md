@@ -11,10 +11,3 @@ Area: "[[Analog Horror]]"
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

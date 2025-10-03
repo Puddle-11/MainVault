@@ -1,4 +1,10 @@
-[[Depono]]
+---
+tags:
+  - prototype
+  - alpha
+Links: "[[Depono]]"
+---
+
 # Burn Down
 
 ```dataviewjs
@@ -203,6 +209,11 @@ const chartData =
 
 window.renderChart(chartData, this.container, layout);
 ```
+
+
+---
+
+
 ### Puddle's Tasks
 ```dataview
 list

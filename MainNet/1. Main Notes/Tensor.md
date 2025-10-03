@@ -11,7 +11,7 @@ A tensor is a list of values. Often the name tensor and rank-3 tensor are interc
 ## Resources
 
 
-## BackLinks
+## Tensor Types
 
 ```dataview
 list

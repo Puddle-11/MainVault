@@ -13,11 +13,3 @@ Author:
 ## References
 
 
-
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

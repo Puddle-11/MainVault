@@ -13,14 +13,3 @@ Deadline: 0001-01-01
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-
-
-
-
-

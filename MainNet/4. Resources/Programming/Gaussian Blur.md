@@ -10,11 +10,3 @@ Area: "[[Graphics Programming]]"
 
 ## Resources
 
-
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

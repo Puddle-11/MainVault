@@ -11,10 +11,3 @@ Rarity: 15%
 Reroll the trump suit
 ## Prerequisites 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

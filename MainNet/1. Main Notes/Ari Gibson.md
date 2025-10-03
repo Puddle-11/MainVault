@@ -11,10 +11,3 @@ Area: "[[Team Cherry]]"
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

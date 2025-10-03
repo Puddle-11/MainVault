@@ -12,7 +12,7 @@ Links: "[[Depono Feature list]]"
 ## Prerequisites 
 
 
-## BackLinks
+## Dependance
 
 ```dataview
 list

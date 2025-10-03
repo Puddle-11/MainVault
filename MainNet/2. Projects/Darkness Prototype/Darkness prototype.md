@@ -14,10 +14,3 @@ Genre: Run & Gun Capture the flag
 Base mechanics:
 	When in the dark your health will regenerate but enemies will become enraged, higher damage and higher defense. 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

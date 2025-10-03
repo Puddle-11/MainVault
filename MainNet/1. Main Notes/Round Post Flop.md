@@ -12,10 +12,3 @@ Links: "[[Depono Feature list]]"
 [[Networking boilerplate]]
 [[52 Deck]]
 [[Shop]]
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

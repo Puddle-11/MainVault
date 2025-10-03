@@ -14,10 +14,3 @@ Classification: Show
 
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

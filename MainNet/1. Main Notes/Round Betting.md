@@ -15,7 +15,7 @@ Links: "[[Depono Feature list]]"
 [[Chip Setup]]
 [[Round Start]]
 
-## BackLinks
+## Dependance
 
 ```dataview
 list

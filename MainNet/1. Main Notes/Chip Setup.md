@@ -12,7 +12,7 @@ Links: "[[Depono Feature list]]"
 - [ ] Integration with [[Round Betting]]
 ## Prerequisites 
 [[Elo System]]
-## BackLinks
+## Dependance
 ```dataview
 list
 from [[]]

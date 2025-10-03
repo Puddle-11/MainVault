@@ -11,10 +11,3 @@ Area: "[[Programming]]"
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

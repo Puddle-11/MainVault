@@ -12,7 +12,7 @@ Links: "[[Depono Feature list]]"
 [[Round Scoring]]
 [[Chip Setup]]
 
-## BackLinks
+## Dependance
 
 ```dataview
 list

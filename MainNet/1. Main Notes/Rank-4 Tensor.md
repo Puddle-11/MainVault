@@ -12,14 +12,5 @@ A rank-4 tensor is a vector of rank-3 [[Tensor]]'s.
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-
-
-
 
 

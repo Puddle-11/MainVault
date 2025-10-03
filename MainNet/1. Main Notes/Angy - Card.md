@@ -11,10 +11,3 @@ Rarity: 10%
 ![[images.png]]
 Tax the other players shop (strength will be determined by the level of the card)
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

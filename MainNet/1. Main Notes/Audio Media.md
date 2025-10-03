@@ -11,10 +11,3 @@ Area: "[[Media]]"
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

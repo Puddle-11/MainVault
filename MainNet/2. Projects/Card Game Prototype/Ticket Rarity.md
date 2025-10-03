@@ -27,10 +27,3 @@ Mythical (0.05-0.001):
 
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

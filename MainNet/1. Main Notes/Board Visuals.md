@@ -11,7 +11,7 @@ Links: "[[Depono Feature list]]"
 - [ ] Graphics for lives and chips
 ## Prerequisites 
 
-## BackLinks
+## Dependance
 
 ```dataview
 list

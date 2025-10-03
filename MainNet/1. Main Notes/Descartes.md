@@ -11,10 +11,3 @@ Area: "[[Philosophy]]"
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

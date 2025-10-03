@@ -13,7 +13,7 @@ Links: "[[Depono Feature list]]"
 [[Card Manager]]
 [[Life System]]
 [[Board Visuals]]
-## BackLinks
+## Dependance
 
 ```dataview
 list

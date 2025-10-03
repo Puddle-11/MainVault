@@ -21,12 +21,3 @@ The reader notes this is not the first time they have heard of this circus. and 
 
 ## Resources
 
-
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-
-

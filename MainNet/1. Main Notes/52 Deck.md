@@ -10,10 +10,10 @@ Links: "[[Depono Feature list]]"
     Visuals for each card in a 52 deck
 ## Prerequisites 
 [[Card Manager]]
-## BackLinks
+## Dependance 
 
 ```dataview
 list
-from [[]]
+from [[]] where file.folder != "MainNet/7. Deleted"
 ```
-
+ 

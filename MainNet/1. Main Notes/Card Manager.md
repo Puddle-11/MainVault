@@ -10,7 +10,7 @@ Links: "[[Depono Feature list]]"
 - [ ] Manage discards
 ## Prerequisites
 [[Card Object]]
-## BackLinks
+## Dependance
 ```dataview
 list
 from [[]]

@@ -11,10 +11,3 @@ Area: "[[Mathematics]]"
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

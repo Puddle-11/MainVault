@@ -13,10 +13,4 @@ Classification: Anime
 
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
 

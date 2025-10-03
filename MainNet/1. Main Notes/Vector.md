@@ -10,11 +10,3 @@ A vector is a rank-1 tensor
 
 ## Resources
 
-
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

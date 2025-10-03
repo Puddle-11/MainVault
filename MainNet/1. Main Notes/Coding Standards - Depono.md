@@ -64,14 +64,6 @@ class Class
 
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-
-
 
 
 

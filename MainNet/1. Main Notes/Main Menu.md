@@ -45,10 +45,3 @@ Links: "[[Depono Feature list]]"
 - [ ] Credits
 - [ ] Quit
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

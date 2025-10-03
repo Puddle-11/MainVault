@@ -15,10 +15,3 @@ Grading:
 
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

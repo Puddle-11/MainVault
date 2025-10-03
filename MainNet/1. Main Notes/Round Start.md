@@ -15,7 +15,7 @@ Links: "[[Depono Feature list]]"
 [[Scene Management]]
 [[Chip Setup]]
 
-## BackLinks
+## Dependance
 
 ```dataview
 list

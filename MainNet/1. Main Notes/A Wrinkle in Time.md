@@ -14,10 +14,4 @@ Author:
 
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
 

@@ -15,14 +15,6 @@ Sell all your modified cards in your deck
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-
-
 
 
 

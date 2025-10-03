@@ -11,11 +11,3 @@ The Zeigarnik effect can be used in game development to make sure a player remem
 
 ## Resources
 [The Zeigarnik Effect](https://www.psychologytoday.com/us/basics/zeigarnik-effect)
-
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

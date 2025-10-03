@@ -14,14 +14,6 @@ Both players lose whatever they put into the pot
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-
-
 
 
 

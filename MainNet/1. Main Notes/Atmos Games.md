@@ -11,10 +11,3 @@ Area: "[[Game Developers]]"
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

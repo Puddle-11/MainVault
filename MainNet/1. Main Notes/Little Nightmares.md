@@ -11,10 +11,3 @@ Area: "[[Games]]"
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

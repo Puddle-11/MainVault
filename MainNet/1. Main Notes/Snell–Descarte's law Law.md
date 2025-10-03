@@ -16,10 +16,3 @@ $$
 
 The law follows from [[Fermat]]'s [[Principle of Least Time]] which in turn follows from the propagation of light as waves.
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

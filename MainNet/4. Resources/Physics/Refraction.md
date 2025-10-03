@@ -12,10 +12,3 @@ Calculate the angle of refraction using [[Snell–Descarte's law Law]]
 ## Resources
 
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

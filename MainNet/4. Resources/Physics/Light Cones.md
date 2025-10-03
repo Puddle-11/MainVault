@@ -11,9 +11,3 @@ Light cones are apart of the [[General Theory of Relativity]], every object has 
 
 ![[Light Cones.png]]
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```

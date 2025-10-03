@@ -31,7 +31,7 @@ For different elo matches, meet in the middle for buy in cost
 ## Prerequisites 
 [[Main Menu]]
 
-## BackLinks
+## Dependance
 
 ```dataview
 list

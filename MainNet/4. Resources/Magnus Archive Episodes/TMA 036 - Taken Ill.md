@@ -9,12 +9,3 @@ Area: "[[The Magnus Archives]]"
 
 
 ## Resources
-
-
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

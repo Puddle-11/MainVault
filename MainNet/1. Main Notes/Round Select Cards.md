@@ -13,10 +13,3 @@ Links: "[[Depono Feature list]]"
 [[Card Manager]]
 [[52 Deck]]
 
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-

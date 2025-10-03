@@ -13,11 +13,3 @@ Classification: Movie
 ## References
 
 
-
-## BackLinks
-
-```dataview
-list
-from [[]]
-```
-
