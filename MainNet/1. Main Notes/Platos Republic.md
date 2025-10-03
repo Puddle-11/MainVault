@@ -4,7 +4,7 @@ tags:
   - resource
 Area: "[[Books]]"
 Genre: Political Literature
-Author: Plato
+Author: "[[Plato]]"
 Grading:
 ---
 # Platos Republic

@@ -64,5 +64,21 @@
       ],
       "key": "Delete"
     }
+  ],
+  "persistent-graph:run-graph-simulation": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F5"
+    }
+  ],
+  "persistent-graph:stop-graph-simulation": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F6"
+    }
   ]
 }

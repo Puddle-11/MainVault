@@ -1,17 +1,14 @@
 ---
 tags:
-  - alpha
   - "#resource"
-Area: "[[Film]]"
-Genre:
-Classification: Show
+  - "#alpha"
+Area: "[[Programming]]"
 ---
-# Arcane
+
+# Marching Cubes
 
 
-
-## References
-
+## Resources
 
 
 ## BackLinks

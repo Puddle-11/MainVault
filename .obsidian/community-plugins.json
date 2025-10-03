@@ -3,5 +3,6 @@
   "obsidian-charts",
   "tag-wrangler",
   "templater-obsidian",
-  "dataview"
+  "dataview",
+  "persistent-graph"
 ]

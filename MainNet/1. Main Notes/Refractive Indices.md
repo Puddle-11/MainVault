@@ -1,17 +1,14 @@
 ---
 tags:
-  - alpha
   - "#resource"
-Area: "[[Film]]"
-Genre:
-Classification: Show
+  - "#alpha"
+Area: "[[Mathematics]]"
 ---
-# Arcane
+
+# Refractive Indices
 
 
-
-## References
-
+## Resources
 
 
 ## BackLinks

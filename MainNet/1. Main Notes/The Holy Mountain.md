@@ -1,6 +1,7 @@
 ---
 tags:
   - alpha
+  - "#resource"
 Area: "[[Film]]"
 Genre: Dark Fantasy
 Classification: Movie
