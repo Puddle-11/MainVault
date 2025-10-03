@@ -2,8 +2,10 @@
 tags:
   - alpha
   - "#project"
-Links: "[[Depono Feature list]]"
+Links: "[[Shop]]"
 Deadline: 0001-01-01
+Price: "15"
+Rarity: 5%
 ---
 2025-09-29 23:57
 

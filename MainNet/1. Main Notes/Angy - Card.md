@@ -1,7 +1,9 @@
 ---
 tags:
   - "#ikatodo"
-Links: "[[Depono Feature list]]"
+Links: "[[Shop]]"
+Price: "17"
+Rarity: 10%
 ---
 ## Prerequisites 
 

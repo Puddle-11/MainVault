@@ -1,4 +1,4 @@
-[[Depono Hub]]
+[[Depono]]
 # Burn Down
 
 ```dataviewjs
@@ -202,4 +202,19 @@ const chartData =
 };
 
 window.renderChart(chartData, this.container, layout);
+```
+### Puddle's Tasks
+```dataview
+list
+from [[Depono Feature list]] where User = "Puddle"
+```
+### Owi's Tasks
+```dataview
+list
+from [[Depono Feature list]] where User = "Owi"
+```
+### Dee's Tasks
+```dataview
+list
+from [[Depono Feature list]] where User = "Dee"
 ```

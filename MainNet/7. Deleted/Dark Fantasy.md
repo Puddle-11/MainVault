@@ -2,6 +2,7 @@
 tags:
   - project
 Links: "[[Game Ideas]]"
+Date Deleted: 2025-10-03
 ---
 ---
 # Dark Fantasy

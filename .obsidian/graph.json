@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "Areas",
@@ -111,6 +111,13 @@
         "a": 1,
         "rgb": 5431447
       }
+    },
+    {
+      "query": "Depono",
+      "color": {
+        "a": 1,
+        "rgb": 16732895
+      }
     }
   ],
   "collapse-display": true,
@@ -123,6 +130,6 @@
   "repelStrength": 20,
   "linkStrength": 0.817708333333333,
   "linkDistance": 280,
-  "scale": 0.059326171875000604,
+  "scale": 0.05932617187500106,
   "close": true
 }

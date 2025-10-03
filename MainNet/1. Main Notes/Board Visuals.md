@@ -5,8 +5,10 @@ Links: "[[Depono Feature list]]"
 ---
 
 
-# {{Title}}
-
+# Board Visuals
+- [ ] Background graphics for the board
+- [ ] Graphics for buttons and shop
+- [ ] Graphics for lives and chips
 ## Prerequisites 
 
 ## BackLinks

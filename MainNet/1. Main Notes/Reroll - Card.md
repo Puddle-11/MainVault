@@ -1,12 +1,14 @@
 ---
 tags:
   - "#ikatodo"
-Links: "[[Depono Feature list]]"
+Links: "[[Shop]]"
+Price: "10"
+Rarity: 15%
 ---
 
 
-# {{Title}}
-
+# Reroll - Card
+Reroll the trump suit
 ## Prerequisites 
 
 ## BackLinks

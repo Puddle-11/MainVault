@@ -5,10 +5,11 @@ Links: "[[Depono Feature list]]"
 ---
 
 
-# {{Title}}
-
+# 52 Deck
+- [ ] Deck Visuals
+    Visuals for each card in a 52 deck
 ## Prerequisites 
-
+[[Card Manager]]
 ## BackLinks
 
 ```dataview

@@ -13,7 +13,7 @@ Main Concept:
 Player Hook:
 
 Game Vision:
-
+    Physics based table top game.
 Unique Selling Point:
 
 Target Audience:
@@ -22,9 +22,9 @@ Target Audience:
 ### Game References
 
 Game 1:
-
+    [[Among Us]]
 Game 2:
-
+    [[Backshot Roulette]]
 Game 3:
 
 ---

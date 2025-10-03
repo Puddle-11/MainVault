@@ -1,7 +1,7 @@
 ---
 tags:
   - project
-Links: "[[Depono Hub]]"
+Links: "[[Depono]]"
 ---
 ---
 # Depono GDD

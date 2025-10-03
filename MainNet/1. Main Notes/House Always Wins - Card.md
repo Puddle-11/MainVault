@@ -2,10 +2,11 @@
 tags:
   - alpha
   - "#project"
-Links: "[[Depono Feature list]]"
+Links: "[[Shop]]"
 Deadline: 0001-01-01
+Price: "20"
+Rarity: 3%
 ---
-2025-09-29 23:43
 
 # House Always Wins
 Both players lose whatever they put into the pot

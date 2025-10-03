@@ -2,7 +2,7 @@
 tags:
   - alpha
   - "#project"
-Links: "[[Depono Hub]]"
+Links: "[[Depono]]"
 Deadline: 0001-01-01
 ---
 2025-09-29 23:26
@@ -27,7 +27,6 @@ Deadline: 0001-01-01
 list
 from [[]] where file.folder != "MainNet/5. Templates"
 ```
-
 
 ## Resources
 

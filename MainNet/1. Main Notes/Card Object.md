@@ -5,12 +5,12 @@ Links: "[[Depono Feature list]]"
 ---
 
 
-# {{Title}}
-
+# Card Object
+- [ ] Object for the card
+- [ ] Movement interactions
 ## Prerequisites 
 
 ## BackLinks
-
 ```dataview
 list
 from [[]]
