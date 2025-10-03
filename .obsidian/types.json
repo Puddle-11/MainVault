@@ -32,6 +32,9 @@
     "TQ_show_tags": "checkbox",
     "TQ_show_task_count": "checkbox",
     "TQ_show_tree": "checkbox",
-    "TQ_show_urgency": "checkbox"
+    "TQ_show_urgency": "checkbox",
+    "Var1": "number",
+    "Resolution": "number",
+    "Var 2": "number"
   }
 }
