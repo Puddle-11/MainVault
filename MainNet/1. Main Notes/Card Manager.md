@@ -2,6 +2,7 @@
 tags:
   - "#ikatodo"
 Links: "[[Depono Feature list]]"
+User: Dee
 ---
 # Card Manager
 - [ ] Selecting cards
