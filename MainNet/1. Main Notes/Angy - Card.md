@@ -5,7 +5,10 @@ Links: "[[Depono Feature list]]"
 ---
 ## Prerequisites 
 
-# {{Title}}
+# Angy - Card
+![[images.png]]
+Tax the other players shop (strength will be determined by the level of the card)
+
 ## BackLinks
 
 ```dataview
