@@ -2,7 +2,7 @@
 tags:
   - alpha
   - "#project"
-Links: "[[Depono GDD]]"
+Links: "[[Depono Hub]]"
 Deadline: 0001-01-01
 ---
 2025-09-29 23:26

@@ -14,7 +14,7 @@ Epic meaning is the drive for players or users to do something "greater" than th
 ### Accomplishment
 Accomplishment is the drive in ever person to achieve something challenging. Because of this, its very easy to develop to cater to this drive. Making a hard challenge with a reward at the end, even if the reward is just a trophy is enough to make people attempt the challenge 
 ### Empowerment of Creativity
-Empowerment of creativity is the type of flow that comes from creative expression in solving a puzzle or advancing in a game. An example of a game that does this well is [[Tears of the Kingdom]], TOTK allows the player nearly unlimited creativity. Because of this, all the problems in TOTK can be solved in multiple ways. This keeps the player empowered and keeps them finding new creative solutions.
+Empowerment of creativity is the type of flow that comes from creative expression in solving a puzzle or advancing in a game. An example of a game that does this well is TOTK, TOTK allows the player nearly unlimited creativity. Because of this, all the problems in TOTK can be solved in multiple ways. This keeps the player empowered and keeps them finding new creative solutions.
 ### Ownership
 Ownership is a large motivator even in the real world. the desire to own something or accumulate wealth is strong in most people. The brain can be tricked pretty easily though and owning virtual goods feels the same as owning real ones. Giving the player a perceived sense of ownership not only gives them a sense of accomplishment but also a tie to your digital world. Keeping them coming back to the world since they own things in that world. 
 ### Social Influence

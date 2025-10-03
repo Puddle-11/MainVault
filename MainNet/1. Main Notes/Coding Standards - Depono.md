@@ -2,7 +2,7 @@
 tags:
   - alpha
   - "#project"
-Links: "[[Depono GDD]]"
+Links: "[[Depono Hub]]"
 ---
 
 

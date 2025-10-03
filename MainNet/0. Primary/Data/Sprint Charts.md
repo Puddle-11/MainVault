@@ -25,7 +25,6 @@ const p_pages = dv.pages().where
 	
 );
 
-//const p_counts = days.map(day => p_pages.filter(p => p.file.ctime.toFormat("yyyy-MM-dd") === day).length);
 
 const p_counts = days.map(day => 
 {
@@ -160,14 +159,15 @@ const counts = days.map(day =>
 	return deletedCount;
 });
 
-const scopeCount = days.map(day => {
+const scopeCount = days.map(day => 
+{
 	const addedCount = pages.filter
 	(
 		p => p["Date Assigned"] 
 		&& p["Date Assigned"].toFormat("yyyy-MM-dd") <= day
 	).length;
 	
-return addedCount;
+    return addedCount;
 })
 
 const layout = {
