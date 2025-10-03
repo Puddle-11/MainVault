@@ -1,7 +1,7 @@
 ---
 tags:
   - project
-Links: "[[Projects]]"
+Links:
 ---
 ---
 # Depono GDD
