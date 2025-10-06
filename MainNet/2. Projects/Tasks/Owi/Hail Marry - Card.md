@@ -2,14 +2,14 @@
 tags:
   - alpha
   - "#project"
-Links: "[[Shop]]"
+Links: "[[Depono Feature list]]"
 Deadline: 0001-01-01
 Price: "15"
 Rarity: 5%
 Date Assigned: 2025-10-03
 User: Owi
 ---
-2025-09-29 23:57
+[[Shop]]
 
 # Hail Marry
 Sell all your modified cards in your deck

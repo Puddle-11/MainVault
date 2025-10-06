@@ -2,7 +2,7 @@
 tags:
   - alpha
   - "#project"
-Links: "[[Projects]]"
+Links:
 ---
 2025-10-03 03:56
 
