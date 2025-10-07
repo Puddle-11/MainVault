@@ -173,7 +173,6 @@ const scopeCount = days.map(day =>
 		p => p["Date Assigned"] 
 		&& p["Date Assigned"].toFormat("yyyy-MM-dd") <= day
 	).length;
-	
     return addedCount;
 })
 

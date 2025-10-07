@@ -1,7 +1,7 @@
 ---
 tags:
-  - alpha
   - "#project"
+  - "#ikatodo"
 Links: "[[Depono Feature list]]"
 Deadline: 0001-01-01
 Price: "15"
