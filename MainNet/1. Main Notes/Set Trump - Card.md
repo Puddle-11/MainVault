@@ -1,11 +1,11 @@
 ---
 tags:
   - "#ikatodo"
-Links: "[[Shop]]"
+Links: "[[Depono Feature list]]"
 Price: "13"
 Rarity: 15%
 ---
-
+[[Shop]]
 
 # Set Trump - Card
 - [ ] Set trump diamond - card
