@@ -2,7 +2,7 @@
 tags:
   - "#resource"
   - "#alpha"
-Area: "[[Resources]]"
+Area: "[[Physics]]"
 ---
 
 # Snell–Descarte's law
