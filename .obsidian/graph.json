@@ -1,135 +1,22 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "depono",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "Areas",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "Physics",
-      "color": {
-        "a": 1,
-        "rgb": 2594448
-      }
-    },
-    {
-      "query": "Mazes",
-      "color": {
-        "a": 1,
-        "rgb": 448160
-      }
-    },
-    {
-      "query": "Prototypes",
-      "color": {
-        "a": 1,
-        "rgb": 5151927
-      }
-    },
-    {
-      "query": "Color theory",
-      "color": {
-        "a": 1,
-        "rgb": 8639619
-      }
-    },
-    {
-      "query": "Game engines",
-      "color": {
-        "a": 1,
-        "rgb": 16765286
-      }
-    },
-    {
-      "query": "Graphics Programming",
-      "color": {
-        "a": 1,
-        "rgb": 16223339
-      }
-    },
-    {
-      "query": "Programming",
-      "color": {
-        "a": 1,
-        "rgb": 15681391
-      }
-    },
-    {
-      "query": "Games",
-      "color": {
-        "a": 1,
-        "rgb": 11553448
-      }
-    },
-    {
-      "query": "Design",
-      "color": {
-        "a": 1,
-        "rgb": 12999935
-      }
-    },
-    {
-      "query": "Card Game Prototype",
-      "color": {
-        "a": 1,
-        "rgb": 1149618
-      }
-    },
-    {
-      "query": "Drugs",
-      "color": {
-        "a": 1,
-        "rgb": 6921397
-      }
-    },
-    {
-      "query": "The Magnus Archives",
-      "color": {
-        "a": 1,
-        "rgb": 10703437
-      }
-    },
-    {
-      "query": "Books",
-      "color": {
-        "a": 1,
-        "rgb": 6586179
-      }
-    },
-    {
-      "query": "Film",
-      "color": {
-        "a": 1,
-        "rgb": 5431447
-      }
-    },
-    {
-      "query": "Depono",
-      "color": {
-        "a": 1,
-        "rgb": 16732895
-      }
-    }
-  ],
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.401041666666667,
-  "repelStrength": 20,
-  "linkStrength": 0.817708333333333,
-  "linkDistance": 280,
-  "scale": 0.042315902689760106,
-  "close": true
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7132754626224447,
+  "close": false
 }

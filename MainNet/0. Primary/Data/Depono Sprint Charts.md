@@ -78,7 +78,7 @@ const d_pages = dv.pages().where
 	&& p.file.tags.includes("#ikatodo")
 );
 
-	const d_counts = days.map(day => {
+const d_counts = days.map(day => {
 	const addedCount = d_pages.filter
 	(
 		p => p["Date Assigned"] 
@@ -92,6 +92,7 @@ const d_pages = dv.pages().where
 	).length
 	
 	return addedCount - deletedCount;
+	
 });
 
 const chartData = 
@@ -172,7 +173,6 @@ const scopeCount = days.map(day =>
 		p => p["Date Assigned"] 
 		&& p["Date Assigned"].toFormat("yyyy-MM-dd") <= day
 	).length;
-	
     return addedCount;
 })
 
