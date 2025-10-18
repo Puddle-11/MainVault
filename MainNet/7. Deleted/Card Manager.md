@@ -4,12 +4,13 @@ tags:
 Links: "[[Depono Feature list]]"
 Date Assigned: 2025-10-06
 User: Puddle
+Date Deleted: 2025-10-17
 ---
 # Card Manager
-- [ ] Selecting cards
-- [ ] Clicking / hovering
-- [ ] Manage the remaining deck
-- [ ] Manage discards
+- [x] Selecting cards
+- [x] Clicking / hovering
+- [x] Manage the remaining deck
+- [x] Manage discards
 ## Prerequisites
 [[Card Object]]
 ## Dependance

@@ -8,7 +8,7 @@ Links: "[[Depono]]"
 # Burn Down
 
 ```dataviewjs
-const backlook = 14;
+const backlook = 24;
 
 
 const cutoff = new Date();
@@ -134,7 +134,7 @@ window.renderChart(chartData, this.container);
 
 # Burn Up
 ```dataviewjs
-const backlook = 14;
+const backlook = 24;
 
 
 const cutoff = new Date();
@@ -217,15 +217,15 @@ window.renderChart(chartData, this.container, layout);
 ### Puddle's Tasks
 ```dataview
 list
-from [[Depono Feature list]] where User = "Puddle"
+from [[Depono Feature list]] where User = "Puddle" and file.folder != "MainNet/7. Deleted"
 ```
 ### Owi's Tasks
 ```dataview
 list
-from [[Depono Feature list]] where User = "Owi"
+from [[Depono Feature list]] where User = "Owi" and file.folder != "MainNet/7. Deleted"
 ```
 ### Dee's Tasks
 ```dataview
 list
-from [[Depono Feature list]] where User = "Dee"
+from [[Depono Feature list]] where User = "Dee" and file.folder != "MainNet/7. Deleted"
 ```
