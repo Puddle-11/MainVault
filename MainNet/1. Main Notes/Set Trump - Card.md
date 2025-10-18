@@ -4,6 +4,7 @@ tags:
 Links: "[[Depono Feature list]]"
 Price: "13"
 Rarity: 15%
+User: Owi
 ---
 [[Shop]]
 
