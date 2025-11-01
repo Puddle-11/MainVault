@@ -1,7 +1,7 @@
 ---
 tags:
   - "#ikatodo"
-Links: "[[Depono Feature list]]"
+Links: "[[Feature List]]"
 Price: "13"
 Rarity: 15%
 User: Owi

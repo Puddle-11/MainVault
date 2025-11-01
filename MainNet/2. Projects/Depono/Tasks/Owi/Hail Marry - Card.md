@@ -2,18 +2,20 @@
 tags:
   - "#project"
   - "#ikatodo"
-Links: "[[Depono Feature list]]"
+Links: "[[Feature List]]"
 Deadline: 0001-01-01
-Price: "20"
-Rarity: 3%
+Price: "15"
+Rarity: 5%
 Date Assigned: 2025-10-03
 User: Owi
 ---
 [[Shop]]
-# House Always Wins
-Both players lose whatever they put into the pot
+
+# Hail Marry
+Sell all your modified cards in your deck
 
 ## Resources
+
 
 
 

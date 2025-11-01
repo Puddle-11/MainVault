@@ -1,7 +1,7 @@
 ---
 tags:
   - "#ikatodo"
-Links: "[[Depono Feature list]]"
+Links: "[[Feature List]]"
 Price: "17"
 Rarity: 10%
 Date Assigned: 2025-10-03

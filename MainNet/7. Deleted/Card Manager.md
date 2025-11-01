@@ -1,7 +1,7 @@
 ---
 tags:
   - "#ikatodo"
-Links: "[[Depono Feature list]]"
+Links: "[[Feature List]]"
 Date Assigned: 2025-10-06
 User: Puddle
 Date Deleted: 2025-10-17

@@ -217,15 +217,15 @@ window.renderChart(chartData, this.container, layout);
 ### Puddle's Tasks
 ```dataview
 list
-from [[Depono Feature list]] where User = "Puddle" and file.folder != "MainNet/7. Deleted"
+from [[Feature List]] where User = "Puddle" and file.folder != "MainNet/7. Deleted"
 ```
 ### Owi's Tasks
 ```dataview
 list
-from [[Depono Feature list]] where User = "Owi" and file.folder != "MainNet/7. Deleted"
+from [[Feature List]] where User = "Owi" and file.folder != "MainNet/7. Deleted"
 ```
 ### Dee's Tasks
 ```dataview
 list
-from [[Depono Feature list]] where User = "Dee" and file.folder != "MainNet/7. Deleted"
+from [[Feature List]] where User = "Dee" and file.folder != "MainNet/7. Deleted"
 ```
