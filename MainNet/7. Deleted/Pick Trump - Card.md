@@ -5,6 +5,7 @@ Links: "[[Depono Feature list]]"
 Price: "17"
 Rarity: 5%
 User: Owi
+Date Deleted: 2025-10-18
 ---
 [[Shop]]
 

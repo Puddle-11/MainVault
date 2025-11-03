@@ -8,7 +8,7 @@ Links: "[[Depono]]"
 # Burn Down
 
 ```dataviewjs
-const backlook = 24;
+const backlook = 44;
 
 
 const cutoff = new Date();
@@ -134,7 +134,7 @@ window.renderChart(chartData, this.container);
 
 # Burn Up
 ```dataviewjs
-const backlook = 24;
+const backlook = 44;
 
 
 const cutoff = new Date();

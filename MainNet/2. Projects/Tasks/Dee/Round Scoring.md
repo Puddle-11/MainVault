@@ -2,19 +2,19 @@
 tags:
   - "#ikatodo"
 Links: "[[Depono Feature list]]"
+Date Assigned: 2025-10-18
+User: Dee
 ---
 
 
-# Round Start
-
-- [ ] Set blind based on 1/30 of initial buy-in.
-- [ ] Take blinds
-- [ ] Ready up button
+# Round Scoring
+- [ ] Card Manager Scoring
 ## Prerequisites 
 [[Networking boilerplate]]
-[[Scene Management]]
-[[Chip Setup]]
-
+[[52 Deck]]
+[[Card Manager]]
+[[Life System]]
+[[Board Visuals]]
 ## Dependance
 
 ```dataview
