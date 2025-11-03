@@ -10,6 +10,10 @@ User: Puddle
 
 
 # Networking boilerplate
+- [x] Lobby entry and exit points
+- [x] Relay entry and exit points
+- [ ] Server side profile data
+
 ## Prerequisites 
 
 

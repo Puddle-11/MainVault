@@ -1,3 +1,7 @@
+---
+Date Deleted: 2025-11-03
+---
+
 I want to start generating a following on Youtube so I will start posting videos regularly. my goal is once a week on friday. Here are the mile stones for the next 3 months (12 weeks)
 
 ---

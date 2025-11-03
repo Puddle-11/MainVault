@@ -1,5 +1,5 @@
 <%*
-const targetFolder = "MainNet/2. Projects/Tasks/Dee"; 
+const targetFolder = "MainNet/2. Projects/IKA/Depono/Tasks/Dee"; 
 const activeFile = tp.app.workspace.getActiveFile();
 
 if (!activeFile) {
