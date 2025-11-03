@@ -10,8 +10,8 @@ Links:
 
 
 ## Resources
-[[Depono Gameplay loop.canvas|Gameplay loop]]
-### links
+[[Gameplay Loop.canvas|Gameplay loop]]
+### Links
 ```dataview
 list
 from [[]]

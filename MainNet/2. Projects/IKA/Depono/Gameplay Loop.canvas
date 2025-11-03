@@ -36,32 +36,12 @@
 			"height":60
 		},
 		{
-			"id":"9e27d17e82fdaa07",
-			"type":"text",
-			"text":"Betting round",
-			"styleAttributes":{"textAlign":"center"},
-			"x":80,
-			"y":-520,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"c564eb3c6c3fcbce",
 			"type":"text",
 			"text":"Fold",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-280,
 			"y":-260,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"fc6954325c2bb61f",
-			"type":"text",
-			"text":"Raise\n(min 2x current bet)",
-			"styleAttributes":{"textAlign":"center"},
-			"x":80,
-			"y":-180,
 			"width":260,
 			"height":60
 		},
@@ -92,6 +72,26 @@
 			"styleAttributes":{},
 			"x":570,
 			"y":-840,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9e27d17e82fdaa07",
+			"type":"text",
+			"text":"Betting round",
+			"styleAttributes":{"textAlign":"center"},
+			"x":80,
+			"y":-520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"fc6954325c2bb61f",
+			"type":"text",
+			"text":"Raise\n(min 2x current bet)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":80,
+			"y":-180,
 			"width":260,
 			"height":60
 		},

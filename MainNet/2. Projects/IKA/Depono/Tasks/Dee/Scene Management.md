@@ -1,7 +1,7 @@
 ---
 tags:
   - "#ikatodo"
-Links: "[[Depono Feature list]]"
+Links: "[[Feature List]]"
 User: Dee
 Date Assigned: 2025-10-03
 ---

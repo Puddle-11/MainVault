@@ -1,5 +1,5 @@
 
-# IKA Todos
+# IKA To-dos
 
 ## General
 ```dataview
