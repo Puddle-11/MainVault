@@ -1,7 +1,7 @@
 ---
 tags:
   - area
-Links: "[[Projects]]"
+Links: "[[IKA Hub]]"
 ---
 ```dataview
 list
