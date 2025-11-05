@@ -2,18 +2,20 @@
 tags:
   - "#ikatodo"
 Links: "[[Feature List]]"
+Date Assigned: 2025-10-18
+User: Owi
 ---
 
 
-# Round Start
-
-- [ ] Set blind based on 1/30 of initial buy-in.
-- [ ] Take blinds
-- [ ] Ready up button
+# Round Betting
+- [ ] Fold
+- [ ] Raise (minimum x2 prev bet)
+- [ ] Call
+- [ ] Check
 ## Prerequisites 
 [[Networking boilerplate]]
-[[Scene Management]]
 [[Chip Setup]]
+[[Round Start]]
 
 ## Dependance
 

@@ -2,6 +2,8 @@
 tags:
   - "#ikatodo"
 Links: "[[Feature List]]"
+Date Assigned: 2025-10-18
+User: Owi
 ---
 Li
 # Life System

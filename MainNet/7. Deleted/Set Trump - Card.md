@@ -9,6 +9,7 @@ Links: "[[Feature List]]"
 Price: "13"
 Rarity: 15%
 User: Owi
+Date Deleted: 2025-10-18
 ---
 [[Shop]]
 
@@ -17,7 +18,6 @@ User: Owi
 - [ ] Set trump heart - card
 - [ ] Set trump Spades - card
 - [ ] Set trump clubs - card
-
 ## Prerequisites
 
 

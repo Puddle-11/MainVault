@@ -1,8 +1,11 @@
 ---
+<<<<<<< HEAD
 Date Deleted: 2025-11-02
 ---
 
 ---
+=======
+>>>>>>> e4ee488a45b4841e1cc3e2c6f39680eb19545de7
 tags:
   - "#project"
   - "#ikatodo"
@@ -12,6 +15,7 @@ Price: "15"
 Rarity: 5%
 Date Assigned: 2025-10-03
 User: Owi
+Date Deleted: 2025-10-18
 ---
 [[Shop]]
 
