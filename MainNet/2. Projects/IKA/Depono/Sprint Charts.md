@@ -110,7 +110,7 @@ const chartData =
       
     },
     {
-      label: "Owens Tasks",
+      label: "Owi's Tasks",
       data: o_counts,
       borderColor: "#ffb7c5",
       fill: false,
