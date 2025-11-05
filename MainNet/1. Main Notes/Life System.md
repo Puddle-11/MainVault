@@ -3,7 +3,7 @@ tags:
   - "#ikatodo"
 Links: "[[Feature List]]"
 ---
-
+Li
 # Life System
 - [ ] 3 visual stocks
 - [ ] Split buy in, evenly between the 3 lives
