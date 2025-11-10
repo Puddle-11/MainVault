@@ -8,7 +8,7 @@ Date Deleted: 2025-10-18
 ---
 
 # Elo System
-- [ ] Winners tax implementation 
+- [x] Winners tax implementation 
     Winners tax is implemented to keep the elos stable and keep inflation down
 
 For different elo matches, meet in the middle for buy in cost
