@@ -8,10 +8,10 @@ User: Owi
 
 
 # Chip Setup
-- [x] Chip Visuals
+- [ ] Chip Visuals
 - [ ] Integration with [[Round Scoring]]
-- [ ] Integration with [[Elo System]]
-- [ ] Integration with [[Round Betting]]
+- [x] Integration with [[Elo System]]
+- [x] Integration with [[Round Betting]]
 ## Prerequisites 
 [[Elo System]]
 ## Dependance

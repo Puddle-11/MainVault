@@ -7,8 +7,8 @@ User: Owi
 ---
 Li
 # Life System
-- [ ] 3 visual stocks
-- [ ] Split buy in, evenly between the 3 lives
+- [x] 3 visual stocks
+- [x] Split buy in, evenly between the 3 lives
 - [ ] Integrate with [[Round Scoring]]
 ## Prerequisites 
 [[Round Scoring]]
