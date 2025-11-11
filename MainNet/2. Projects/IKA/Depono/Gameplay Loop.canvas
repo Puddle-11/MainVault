@@ -126,26 +126,6 @@
 			"height":60
 		},
 		{
-			"id":"15989ca637489816",
-			"type":"text",
-			"text":"Select 3 of your cards to send up",
-			"styleAttributes":{},
-			"x":-1040,
-			"y":250,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"53809574303750e3",
-			"type":"text",
-			"text":"Second betting round Done",
-			"styleAttributes":{},
-			"x":-640,
-			"y":250,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"34117131742e7141",
 			"type":"text",
 			"text":"Check/Call",
@@ -166,32 +146,12 @@
 			"height":60
 		},
 		{
-			"id":"80c47c3c68eae4c9",
-			"type":"text",
-			"text":"First betting round Done",
-			"styleAttributes":{},
-			"x":25,
-			"y":510,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"c04f4947f8b51c39",
 			"type":"text",
 			"text":"Players Given their hand (7 cards)",
 			"styleAttributes":{},
 			"x":25,
 			"y":680,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b1f2325318f5fdf4",
-			"type":"text",
-			"text":"Shop",
-			"styleAttributes":{},
-			"x":-265,
-			"y":870,
 			"width":260,
 			"height":60
 		},
@@ -211,6 +171,46 @@
 			"text":"Ready Up ",
 			"styleAttributes":{},
 			"x":445,
+			"y":870,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"15989ca637489816",
+			"type":"text",
+			"text":"Select 3 of your cards to send up",
+			"styleAttributes":{},
+			"x":-1040,
+			"y":250,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"53809574303750e3",
+			"type":"text",
+			"text":"Second betting round Done",
+			"styleAttributes":{},
+			"x":-640,
+			"y":250,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"80c47c3c68eae4c9",
+			"type":"text",
+			"text":"First betting round Done",
+			"styleAttributes":{},
+			"x":25,
+			"y":510,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b1f2325318f5fdf4",
+			"type":"text",
+			"text":"Shop",
+			"styleAttributes":{},
+			"x":-265,
 			"y":870,
 			"width":260,
 			"height":60
