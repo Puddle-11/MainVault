@@ -1,4 +1,8 @@
 ---
+Date Deleted: 2025-11-12
+---
+
+---
 tags:
   - "#ikatodo"
 Links: "[[Feature List]]"
