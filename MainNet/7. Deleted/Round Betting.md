@@ -4,13 +4,13 @@ tags:
 Links: "[[Feature List]]"
 Date Assigned: 2025-11-12
 User: Owi
-Date Deleted: 2025-11-11
+Date Deleted: 2025-11-12
 
 ---
 
 
 # Round Betting
-- [x] Fold
+- [ ] Fold
 - [x] Raise (minimum x2 prev bet)
 - [x] Call
 - [x] Check
