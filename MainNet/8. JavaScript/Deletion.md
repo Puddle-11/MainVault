@@ -7,6 +7,11 @@ if (!activeFile) {
 } else {
 
   const newPath = `${targetFolder}/${activeFile.name}`;
+  if(app.vault.getAbstractFileByPath(newPath))
+  {
+      await app.vault.delete(activeFile);
+  }
+  else{
   await tp.app.fileManager.renameFile(activeFile, newPath);
 
 
@@ -50,6 +55,6 @@ if (!activeFile) {
   await tp.app.vault.modify(fileAtNewPath, newContent);
 
   new Notice(`Moved ${activeFile.name} to ${targetFolder} and set Date Deleted to ${yyyy}-${mm}-${dd}`);
-
+}
 }
 %>
