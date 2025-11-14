@@ -9,7 +9,9 @@ if (!activeFile) {
   const newPath = `${targetFolder}/${activeFile.name}`;
   if(app.vault.getAbstractFileByPath(newPath))
   {
+  new Notice(`Duplicate file found, Deleting ${activeFile} Permanently`);
       await app.vault.delete(activeFile);
+      		
   }
   else{
   await tp.app.fileManager.renameFile(activeFile, newPath);

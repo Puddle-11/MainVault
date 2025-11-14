@@ -18,7 +18,7 @@
 		{
 			"id":"617f977396f0ec56",
 			"type":"text",
-			"text":"Cards scored, winnter takes pot",
+			"text":"Cards scored, winner takes pot",
 			"styleAttributes":{},
 			"x":-840,
 			"y":-1195,
@@ -32,16 +32,6 @@
 			"styleAttributes":{},
 			"x":-840,
 			"y":-1005,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"c564eb3c6c3fcbce",
-			"type":"text",
-			"text":"Fold",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-280,
-			"y":-260,
 			"width":260,
 			"height":60
 		},
@@ -82,6 +72,16 @@
 			"styleAttributes":{"textAlign":"center"},
 			"x":80,
 			"y":-520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c564eb3c6c3fcbce",
+			"type":"text",
+			"text":"Fold",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-280,
+			"y":-260,
 			"width":260,
 			"height":60
 		},
@@ -146,6 +146,26 @@
 			"height":60
 		},
 		{
+			"id":"15989ca637489816",
+			"type":"text",
+			"text":"Select 3 of your cards to send up",
+			"styleAttributes":{},
+			"x":-1040,
+			"y":250,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"53809574303750e3",
+			"type":"text",
+			"text":"Second betting round Done",
+			"styleAttributes":{},
+			"x":-640,
+			"y":250,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"c04f4947f8b51c39",
 			"type":"text",
 			"text":"Players Given their hand (7 cards)",
@@ -172,26 +192,6 @@
 			"styleAttributes":{},
 			"x":445,
 			"y":870,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"15989ca637489816",
-			"type":"text",
-			"text":"Select 3 of your cards to send up",
-			"styleAttributes":{},
-			"x":-1040,
-			"y":250,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"53809574303750e3",
-			"type":"text",
-			"text":"Second betting round Done",
-			"styleAttributes":{},
-			"x":-640,
-			"y":250,
 			"width":260,
 			"height":60
 		},
