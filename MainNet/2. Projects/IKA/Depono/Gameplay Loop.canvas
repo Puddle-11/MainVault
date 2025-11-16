@@ -66,6 +66,16 @@
 			"height":60
 		},
 		{
+			"id":"15989ca637489816",
+			"type":"text",
+			"text":"Select 3 of your cards to send up",
+			"styleAttributes":{},
+			"x":-1040,
+			"y":250,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"9e27d17e82fdaa07",
 			"type":"text",
 			"text":"Betting round",
@@ -142,16 +152,6 @@
 			"styleAttributes":{},
 			"x":1040,
 			"y":20,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"15989ca637489816",
-			"type":"text",
-			"text":"Select 3 of your cards to send up",
-			"styleAttributes":{},
-			"x":-1040,
-			"y":250,
 			"width":260,
 			"height":60
 		},
