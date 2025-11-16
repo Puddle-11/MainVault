@@ -1,5 +1,5 @@
 <%*
-const targetFolder = "MainNet/2. Projects/IKA/Depono/Tasks/Dee"; 
+const targetFolder = "MainNet/2. Projects/IKA/Depono/Tasks/Josh"; 
 const activeFile = tp.app.workspace.getActiveFile();
 
 if (!activeFile) {
@@ -12,14 +12,14 @@ if (!activeFile) {
   const content = await tp.app.vault.read(fileAtNewPath);
   const yamlMatch = content.match(/^---\n([\s\S]*?)\n---\n?/);
 
-const user = "Dee";
+const user = "Josh";
   const today = new Date();
   const yyyy = today.getFullYear();
   const mm = String(today.getMonth() + 1).padStart(2, '0');
   const dd = String(today.getDate()).padStart(2, '0');
 
   const dateLine = `Date Assigned: ${yyyy}-${mm}-${dd}`;
-	const userLine = 'User: Dee';
+	const userLine = 'User: Josh';
   let newContent;
   
   if (yamlMatch) 
@@ -55,7 +55,7 @@ const user = "Dee";
 
   await tp.app.vault.modify(fileAtNewPath, newContent);
 
-  new Notice(`Assigned to Dee`);
+  new Notice(`Assigned to Josh`);
 
 }
 %>
