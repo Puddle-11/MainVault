@@ -10,9 +10,14 @@ User: Josh
 
 
 # Networking boilerplate
-- [x] Lobby entry and exit points
-- [x] Relay entry and exit points
+- [ ] Lobby entry and exit points
+    - [ ] Lobby can be joined and left by a client
+    - [ ] Lobby can be created and destroyed by a client
+- [ ] Relay
+    - [ ] Relays are created when lobby owner plays
+    - [ ] all clients in lobby join the relay
 - [ ] Server side profile data
+    - [ ] Grab serverside data (which should be a number) via user login
 
 ## Prerequisites 
 
