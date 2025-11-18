@@ -8,7 +8,7 @@ User: Owi
 
 
 # Chip Setup
-- [ ] Chip Visuals
+- [x] Chip Visuals
 - [ ] Integration with [[Round Scoring]]
 - [x] Integration with [[Elo System]]
 - [x] Integration with [[Round Betting]]
