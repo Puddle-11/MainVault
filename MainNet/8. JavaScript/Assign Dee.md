@@ -12,7 +12,7 @@ if (!activeFile) {
   const content = await tp.app.vault.read(fileAtNewPath);
   const yamlMatch = content.match(/^---\n([\s\S]*?)\n---\n?/);
 
-const user = "Puddle";
+const user = "Dee";
   const today = new Date();
   const yyyy = today.getFullYear();
   const mm = String(today.getMonth() + 1).padStart(2, '0');

@@ -95,6 +95,28 @@ const d_counts = days.map(day => {
 	
 });
 
+const j_pages = dv.pages().where
+(
+    p => p.file.ctime >= cutoff && p.User == "Josh" 
+	&& p.file.tags.includes("#ikatodo")
+);
+
+const j_counts = days.map(day => {
+    const addedCount = j_pages.filter
+	(
+		p => p["Date Assigned"] 
+		&& p["Date Assigned"].toFormat("yyyy-MM-dd") <= day
+	).length;
+	
+	const deletedCount = j_pages.filter
+	(
+		p => p["Date Deleted"] && p["Date Assigned"] 
+		&& p["Date Deleted"].toFormat("yyyy-MM-dd") <= day
+	).length
+	
+	return addedCount - deletedCount;
+});
+
 const chartData = 
 {
   type: 'line',
@@ -121,6 +143,14 @@ const chartData =
       label: "Dees Tasks",
       data: d_counts,
       borderColor: "#d5c1b7",
+      fill: false,
+      tension: 0,
+      pointRadius: 0
+    },
+    {
+      label: "Joshs Tasks",
+      data: j_counts,
+      borderColor: "#008080",
       fill: false,
       tension: 0,
       pointRadius: 0
@@ -228,4 +258,9 @@ from [[Feature List]] where User = "Owi" and file.folder != "MainNet/7. Deleted"
 ```dataview
 list
 from [[Feature List]] where User = "Dee" and file.folder != "MainNet/7. Deleted"
+```
+### Josh's Tasks
+```dataview
+list
+from [[Feature List]] where User = "Josh" and file.folder != "MainNet/7. Deleted"
 ```

@@ -6,46 +6,6 @@
 		{"id":"c3be6d784ef53542","type":"group","x":-860,"y":-1215,"width":300,"height":290,"color":"1","label":"Scoring"},
 		{"id":"bbd05c74b329eacb","type":"group","x":-1060,"y":240,"width":700,"height":100,"color":"6","label":"Select Cards"},
 		{
-			"id":"363ba665f81595d6",
-			"type":"text",
-			"text":"Shop",
-			"styleAttributes":{"textAlign":"center"},
-			"x":170,
-			"y":-1040,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"617f977396f0ec56",
-			"type":"text",
-			"text":"Cards scored, winnter takes pot",
-			"styleAttributes":{},
-			"x":-840,
-			"y":-1195,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"02b768b11a88bb93",
-			"type":"text",
-			"text":"Opponent selects",
-			"styleAttributes":{},
-			"x":-840,
-			"y":-1005,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"c564eb3c6c3fcbce",
-			"type":"text",
-			"text":"Fold",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-280,
-			"y":-260,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"05e4d24982bc89c3",
 			"type":"text",
 			"text":"Blind",
@@ -66,12 +26,72 @@
 			"height":60
 		},
 		{
+			"id":"617f977396f0ec56",
+			"type":"text",
+			"text":"Cards scored, winner takes pot",
+			"styleAttributes":{},
+			"x":-840,
+			"y":-1195,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"02b768b11a88bb93",
+			"type":"text",
+			"text":"Opponent selects",
+			"styleAttributes":{},
+			"x":-840,
+			"y":-1005,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"363ba665f81595d6",
+			"type":"text",
+			"text":"Shop",
+			"styleAttributes":{"textAlign":"center"},
+			"x":170,
+			"y":-1040,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"8865d372d37d2ca1",
 			"type":"text",
 			"text":"Both players readied ",
 			"styleAttributes":{},
 			"x":570,
 			"y":-840,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"15989ca637489816",
+			"type":"text",
+			"text":"Select 3 of your cards to send up",
+			"styleAttributes":{},
+			"x":-1040,
+			"y":250,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c564eb3c6c3fcbce",
+			"type":"text",
+			"text":"Fold",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-280,
+			"y":-260,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"aa7157ff248b1646",
+			"type":"text",
+			"text":"End Round",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-280,
+			"y":-140,
 			"width":260,
 			"height":60
 		},
@@ -86,22 +106,22 @@
 			"height":60
 		},
 		{
+			"id":"53809574303750e3",
+			"type":"text",
+			"text":"Second betting round Done",
+			"styleAttributes":{},
+			"x":-640,
+			"y":250,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"fc6954325c2bb61f",
 			"type":"text",
 			"text":"Raise\n(min 2x current bet)",
 			"styleAttributes":{"textAlign":"center"},
 			"x":80,
 			"y":-180,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"aa7157ff248b1646",
-			"type":"text",
-			"text":"End Round",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-280,
-			"y":-140,
 			"width":260,
 			"height":60
 		},
@@ -146,6 +166,26 @@
 			"height":60
 		},
 		{
+			"id":"80c47c3c68eae4c9",
+			"type":"text",
+			"text":"First betting round Done",
+			"styleAttributes":{},
+			"x":25,
+			"y":510,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b1f2325318f5fdf4",
+			"type":"text",
+			"text":"Shop",
+			"styleAttributes":{},
+			"x":-265,
+			"y":870,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"c04f4947f8b51c39",
 			"type":"text",
 			"text":"Players Given their hand (7 cards)",
@@ -171,46 +211,6 @@
 			"text":"Ready Up ",
 			"styleAttributes":{},
 			"x":445,
-			"y":870,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"15989ca637489816",
-			"type":"text",
-			"text":"Select 3 of your cards to send up",
-			"styleAttributes":{},
-			"x":-1040,
-			"y":250,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"53809574303750e3",
-			"type":"text",
-			"text":"Second betting round Done",
-			"styleAttributes":{},
-			"x":-640,
-			"y":250,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"80c47c3c68eae4c9",
-			"type":"text",
-			"text":"First betting round Done",
-			"styleAttributes":{},
-			"x":25,
-			"y":510,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b1f2325318f5fdf4",
-			"type":"text",
-			"text":"Shop",
-			"styleAttributes":{},
-			"x":-265,
 			"y":870,
 			"width":260,
 			"height":60
