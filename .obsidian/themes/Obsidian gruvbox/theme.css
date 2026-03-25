@@ -48,7 +48,7 @@
     --bright-orange_x:  254,128,25; /* #fe8019 */
     --bright-orange:    rgb(var(--bright-orange_x));
 
-    --neutral-red_x:    204,36,29; /* #cc241d */
+    --neutral-red_x:    180,46,49; /* #cc241d */
     --neutral-red:      rgb(var(--neutral-red_x));
     --neutral-green_x:  152,151,26; /* #98971a */
     --neutral-green:    rgb(var(--neutral-green_x));
@@ -149,8 +149,8 @@ body
     --text-highlight-bg:             var(--neutral-yellow);
     --text-highlight-fg:             var(--dark0-hard);
 
-    --text-accent:                   var(--neutral-orange);
-    --text-accent-hover:             var(--bright-aqua);
+    --text-accent:                   var(--neutral-blue);
+    --text-accent-hover:             var(--bright-blue);
 
     --tag-color:                     var(--bright-aqua);
     --tag-background:                var(--dark2);

@@ -1,9 +1,9 @@
 [
-  "github-sync",
   "obsidian-charts",
   "tag-wrangler",
   "templater-obsidian",
   "dataview",
   "persistent-graph",
-  "advanced-canvas"
+  "advanced-canvas",
+  "custom-font-loader"
 ]

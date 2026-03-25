@@ -118,6 +118,13 @@
         "a": 1,
         "rgb": 16732895
       }
+    },
+    {
+      "query": "Playlist",
+      "color": {
+        "a": 1,
+        "rgb": 16744007
+      }
     }
   ],
   "collapse-display": true,
@@ -130,6 +137,6 @@
   "repelStrength": 20,
   "linkStrength": 0.817708333333333,
   "linkDistance": 280,
-  "scale": 0.04231590268976116,
+  "scale": 0.026967870575338972,
   "close": true
 }

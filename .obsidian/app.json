@@ -14,5 +14,7 @@
     "MainNet/8. JavaScript/"
   ],
   "useTab": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "livePreview": true,
+  "focusNewTab": true
 }

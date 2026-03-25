@@ -1,0 +1,14 @@
+---
+tags:
+  - prototype
+Links: "[[Prototypes]]"
+Deadline: 0001-01-01
+Date Deleted: 2026-03-21
+---
+2025-07-21 20:29
+# Body Switch RPG
+
+Genre: RPG
+	Hook: get killed to climb the ranks, death is like prestige
+	Death to lower level enemies is a bad thing
+	Lie to survive

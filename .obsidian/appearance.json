@@ -1,5 +1,8 @@
 {
   "cssTheme": "Obsidian gruvbox",
   "accentColor": "#ffc35d",
-  "textFontFamily": "Cascadia Mono"
+  "textFontFamily": "Cascadia Mono,Elder Futhark",
+  "enabledCssSnippets": [
+    "Rune"
+  ]
 }

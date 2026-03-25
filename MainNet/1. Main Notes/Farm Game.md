@@ -13,7 +13,7 @@ Main Concept:
 	Build a Norse town on a secluded northern island, discover the truth behind the island and its old magic
 
 Player Hook:
-	tbd
+	Each person in your town you can track and understand their interpersonal relationships. I want to place a heavier focus on interpersonal relationships in this game than most city builders.
 
 Game Vision:
 	The vision of the game is to make something line [[Frostpunk]] with the aesthetics of [[Easy Delivery Co.]], or throne-fall.
@@ -32,10 +32,11 @@ Game 2:
 	[[Dredge]]
 Game 3:
 	[[Stardew Valley]]
+	
 ---
 
 Tone:
-	Light with undertones of darkness, take [[Dredge]] for example.
+	Light with undertones of mystery, take [[Dredge]] for example.
 	
 Core Loop:
 	During the day:

@@ -1,0 +1,5 @@
+
+/* Example: Apply to custom CSS class */
+.Rune cm-content{
+	font-family: 'rune' !important;
+}

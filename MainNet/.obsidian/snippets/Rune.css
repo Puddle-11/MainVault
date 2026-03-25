@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Rune;
+    src: url(../fonts/RUNE.TTF);
+}
+
+.Rune .markdown-rendered,
+.Rune .cm-content {
+    font-family: Rune;
+}
